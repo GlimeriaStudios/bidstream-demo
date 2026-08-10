@@ -1,0 +1,22 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Node (if you later add tooling)
+node_modules/
+npm-debug.log*
+.env
+.env.local
+
+# Build / temp
+dist/
+build/
+*.log
+*.tmp
+
+# PowerPoint / Office lock files
+~$*.pptx
+~$*.docx

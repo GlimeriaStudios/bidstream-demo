@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<!-- saved from url=(0066)file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bidstream — Brand Guidelines</title>
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./Bidstream — Brand Guidelines_files/css2" rel="stylesheet">
+<style>
+:root{
+  --ink:#0B1020;         /* Deep Indigo Ink - text / dark accents */
+  --ink-2:#131A30;
+  --ink-3:#1C2540;
+  --signal:#3D7BFF;      /* Signal Blue - primary brand */
+  --signal-bright:#5C93FF;
+  --win:#FFB020;         /* Win Amber */
+  --win-deep:#E09600;    /* darker amber for text-on-white legibility */
+  --teal:#2DD4BF;        /* Flow Teal */
+  --teal-deep:#0F9B8A;
+  --paper:#FFFFFF;       /* white background */
+  --paper-2:#F5F7FB;     /* light panel */
+  --paper-3:#EAEEF6;     /* raised / hover */
+  --mist:#5B647C;        /* muted text (darkened for AA on white) */
+  --mist-2:#8A94AD;
+  --line:#E2E7F0;        /* hairline on white */
+  --line-strong:#D3DAE8;
+  --success:#16A34A;
+  --warning:#D97706;
+  --error:#DC2626;
+  --info:#3D7BFF;
+  --serif:'Space Grotesk',sans-serif;
+  --body:'Inter',sans-serif;
+  --mono:'JetBrains Mono',monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);line-height:1.6;-webkit-font-smoothing:antialiased}
+::selection{background:var(--signal);color:#fff}
+
+.wrap{max-width:1080px;margin:0 auto;padding:0 32px}
+section{padding:96px 0;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--signal);margin-bottom:20px;display:flex;align-items:center;gap:12px}
+.eyebrow::before{content:"";width:28px;height:1px;background:var(--signal)}
+h1{font-family:var(--serif);font-weight:700;font-size:clamp(44px,8vw,92px);line-height:.98;letter-spacing:-.045em}
+h2{font-family:var(--serif);font-weight:600;font-size:clamp(30px,4.5vw,52px);line-height:1.02;letter-spacing:-.025em;margin-bottom:16px;color:var(--ink)}
+h3{font-family:var(--serif);font-weight:600;font-size:22px;letter-spacing:-.015em;margin-bottom:10px;color:var(--ink)}
+h4{font-family:var(--serif);font-weight:600;font-size:15px;letter-spacing:0;margin-bottom:6px;color:var(--ink)}
+p{color:#3C4457;font-size:16px;max-width:64ch}
+.lead{font-size:20px;color:#2A3140;max-width:60ch}
+.muted{color:var(--mist);font-size:14px}
+a{color:var(--signal);text-decoration:none}
+
+/* Consistent wordmark treatment — matches hero everywhere */
+.wordmark{font-family:var(--serif);font-weight:700;letter-spacing:-.055em}
+
+/* Hero */
+.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden;border-bottom:1px solid var(--line);background:var(--ink)}
+.hero-bg{position:absolute;inset:0;z-index:0;opacity:.9}
+.hero .wrap{position:relative;z-index:2}
+.hero h1{margin:24px 0;color:#fff}
+.hero h1 .accent{color:var(--signal-bright)}
+.hero .lead{color:#DCE2F0}
+.hero .eyebrow{color:var(--signal-bright)}
+.hero .eyebrow::before{background:var(--signal-bright)}
+.hero-meta{display:flex;gap:40px;margin-top:40px;flex-wrap:wrap;font-family:var(--mono);font-size:13px;color:var(--mist-2)}
+.hero-meta b{color:#fff;font-weight:600;display:block;margin-top:4px;font-family:var(--body)}
+.scrollcue{position:absolute;bottom:36px;left:50%;transform:translateX(-50%);font-family:var(--mono);font-size:11px;letter-spacing:.2em;color:var(--mist-2);z-index:2;text-transform:uppercase}
+
+/* TOC */
+.toc{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.toc a{background:var(--paper);padding:20px 22px;display:block;color:#3C4457;transition:.15s;font-size:15px;font-weight:500}
+.toc a:hover{background:var(--paper-2);color:var(--signal)}
+.toc a span{font-family:var(--mono);font-size:12px;color:var(--signal);display:block;margin-bottom:6px;font-weight:400}
+
+/* Grids & cards */
+.grid{display:grid;gap:20px}
+.g2{grid-template-columns:repeat(2,1fr)}
+.g3{grid-template-columns:repeat(3,1fr)}
+.g4{grid-template-columns:repeat(4,1fr)}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:28px;box-shadow:0 1px 2px rgba(11,16,32,.03)}
+.card.pad-sm{padding:20px}
+.card.tint{background:var(--paper-2);box-shadow:none}
+
+/* Logo canvases */
+.logo-stage{background:var(--paper-2);border:1px solid var(--line);border-radius:20px;padding:56px;display:flex;align-items:center;justify-content:center;min-height:220px}
+.logo-stage.dark{background:var(--ink)}
+.logo-stage.signal{background:var(--signal)}
+.stage-label{font-family:var(--mono);font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--mist);margin-bottom:12px}
+
+/* Color swatches */
+.swatch{border-radius:14px;overflow:hidden;border:1px solid var(--line)}
+.swatch .chip{height:120px}
+.swatch .info{padding:16px;background:var(--paper)}
+.swatch .name{font-family:var(--serif);font-weight:600;font-size:15px;color:var(--ink)}
+.swatch .hex{font-family:var(--mono);font-size:12px;color:var(--mist);margin-top:2px}
+.swatch .use{font-size:12.5px;color:#4A5266;margin-top:10px;line-height:1.4}
+
+/* Tables */
+table{width:100%;border-collapse:collapse;font-size:14px;margin-top:8px}
+th{text-align:left;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--mist);padding:12px 14px;border-bottom:1px solid var(--line-strong);font-weight:400}
+td{padding:13px 14px;border-bottom:1px solid var(--line);color:#3C4457;vertical-align:top}
+td b{color:var(--ink);font-weight:600}
+.mono{font-family:var(--mono);font-size:12.5px}
+
+/* Type specimens */
+.type-spec{border-bottom:1px solid var(--line);padding:22px 0;display:flex;justify-content:space-between;align-items:baseline;gap:24px;flex-wrap:wrap}
+.type-spec .label{font-family:var(--mono);font-size:11px;color:var(--mist);white-space:nowrap}
+.display-xl{font-family:var(--serif);font-weight:700;font-size:64px;letter-spacing:-.045em;line-height:1;color:var(--ink)}
+.display-l{font-family:var(--serif);font-weight:600;font-size:40px;letter-spacing:-.03em;color:var(--ink)}
+.body-sample{font-family:var(--body);font-size:18px;font-weight:400;color:#2A3140}
+.mono-sample{font-family:var(--mono);font-size:16px;color:var(--ink)}
+
+/* Do / Dont */
+.dd{border-radius:14px;padding:22px;border:1px solid var(--line)}
+.dd.do{background:rgba(22,163,74,.05);border-color:rgba(22,163,74,.25)}
+.dd.dont{background:rgba(220,38,38,.04);border-color:rgba(220,38,38,.2)}
+.dd .tag{font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+.dd.do .tag{color:var(--success)}
+.dd.dont .tag{color:var(--error)}
+.dd ul{list-style:none}
+.dd li{padding:7px 0;font-size:14px;color:#3C4457;padding-left:20px;position:relative}
+.dd.do li::before{content:"→";position:absolute;left:0;color:var(--success)}
+.dd.dont li::before{content:"×";position:absolute;left:0;color:var(--error)}
+
+/* Pills */
+.pill{display:inline-block;font-family:var(--mono);font-size:12px;padding:7px 14px;border-radius:100px;border:1px solid var(--line-strong);color:#3C4457;margin:0 8px 8px 0;background:var(--paper)}
+.pill.on{background:var(--signal);border-color:var(--signal);color:#fff}
+
+/* UI mock */
+.ui-mock{background:var(--paper);border:1px solid var(--line-strong);border-radius:18px;overflow:hidden;box-shadow:0 8px 30px rgba(11,16,32,.08)}
+.ui-top{display:flex;align-items:center;gap:8px;padding:14px 18px;border-bottom:1px solid var(--line);background:var(--paper-2)}
+.dot{width:10px;height:10px;border-radius:50%}
+.ui-body{padding:24px}
+.btn{font-family:var(--body);font-weight:600;font-size:14px;padding:11px 20px;border-radius:10px;border:none;cursor:pointer;display:inline-flex;align-items:center;gap:8px}
+.btn-primary{background:var(--signal);color:#fff}
+.btn-ghost{background:transparent;color:var(--ink);border:1px solid var(--line-strong)}
+.win-row{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-radius:12px;background:var(--paper-2);border:1px solid var(--line);margin-bottom:10px}
+.score{font-family:var(--mono);font-weight:500;font-size:13px;padding:5px 10px;border-radius:8px}
+.score.high{background:rgba(255,176,32,.18);color:var(--win-deep)}
+.score.mid{background:rgba(61,123,255,.12);color:var(--signal)}
+.score.low{background:rgba(91,100,124,.12);color:var(--mist)}
+
+/* principle list */
+.principle{display:flex;gap:22px;padding:22px 0;border-bottom:1px solid var(--line)}
+.principle .num{font-family:var(--mono);font-size:13px;color:var(--signal);min-width:34px;padding-top:4px}
+
+/* voice block */
+.voice{background:var(--paper-2);border-left:3px solid var(--signal);border-radius:0 12px 12px 0;padding:20px 24px;margin-bottom:16px}
+.voice .ctx{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--mist);margin-bottom:10px}
+.voice .txt{font-family:var(--serif);font-size:19px;color:var(--ink);line-height:1.35;letter-spacing:-.015em;font-weight:500}
+.voice .sub{font-size:14px;color:#4A5266;margin-top:8px}
+
+footer{padding:80px 0 100px;text-align:center}
+footer .logo-foot{margin-bottom:24px}
+.divider-note{font-family:var(--mono);font-size:12px;color:var(--mist);letter-spacing:.05em}
+
+/* Ink sections — used sparingly for rhythm and weight */
+.ink-section{background:var(--ink);color:var(--paper);border-bottom:1px solid rgba(255,255,255,.08)}
+.ink-section h2{color:#fff}
+.ink-section h3{color:#fff}
+.ink-section h4{color:#fff}
+.ink-section p{color:#C4CBDC}
+.ink-section .lead{color:#DCE2F0}
+.ink-section .muted{color:var(--mist-2)}
+.ink-section .eyebrow{color:var(--signal-bright)}
+.ink-section .eyebrow::before{background:var(--signal-bright)}
+.ink-section .toc{background:rgba(255,255,255,.09);border-color:rgba(255,255,255,.09)}
+.ink-section .toc a{background:var(--ink);color:#C4CBDC}
+.ink-section .toc a:hover{background:var(--ink-3);color:#fff}
+.ink-section .toc a span{color:var(--signal-bright)}
+.ink-section .principle{border-bottom-color:rgba(255,255,255,.08)}
+.ink-section .principle .num{color:var(--signal-bright)}
+.ink-section .card{background:var(--ink-2);border-color:rgba(255,255,255,.08);box-shadow:none}
+.ink-section .card.tint{background:var(--ink-3)}
+
+@media(max-width:820px){
+  .g4,.g3,.g2{grid-template-columns:1fr}
+  .g4.keep,.g3.keep{grid-template-columns:repeat(2,1fr)}
+  section{padding:64px 0}
+  .wrap{padding:0 20px}
+  .logo-stage{padding:36px}
+}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+<!-- ============ HERO ============ -->
+<header class="hero">
+  <svg class="hero-bg" viewBox="0 0 1080 900" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <lineargradient id="hg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#3D7BFF" stop-opacity="0.28"></stop>
+        <stop offset="1" stop-color="#0B1020" stop-opacity="0"></stop>
+      </lineargradient>
+    </defs>
+    <rect width="1080" height="900" fill="url(#hg)"></rect>
+    <g stroke="#3D7BFF" stroke-width="1" fill="none" opacity="0.5">
+      <path d="M-40 120 C 300 120, 420 440, 760 440"></path>
+      <path d="M-40 220 C 300 220, 440 440, 760 440"></path>
+      <path d="M-40 340 C 320 340, 460 440, 760 440"></path>
+      <path d="M-40 460 C 300 460, 460 440, 760 440"></path>
+      <path d="M-40 580 C 320 580, 460 440, 760 440"></path>
+      <path d="M-40 700 C 300 700, 440 440, 760 440"></path>
+      <path d="M-40 800 C 320 800, 460 440, 760 440"></path>
+    </g>
+    <circle cx="760" cy="440" r="6" fill="#FFB020"></circle>
+    <path d="M760 440 L 1120 440" stroke="#FFB020" stroke-width="2"></path>
+  </svg>
+  <div class="wrap">
+    <div class="eyebrow">Brand Guidelines · v1.1 · 2026</div>
+    <h1 class="wordmark">Bid<span class="accent">Stream</span></h1>
+    <p class="lead" style="margin-top:28px">The complete visual identity system. Know which contracts you can actually win.</p>
+    <div class="hero-meta">
+      <div>Industry<b>AI Tender Intelligence</b></div>
+      <div>Sector<b>B2B SaaS · Procurement</b></div>
+      <div>Positioning<b>Signal over noise</b></div>
+    </div>
+  </div>
+  <div class="scrollcue">Scroll to explore ↓</div>
+</header>
+
+<!-- ============ CONTENTS ============ -->
+<section id="contents" class="ink-section">
+  <div class="wrap">
+    <div class="eyebrow">Contents</div>
+    <h2>Seventeen sections</h2>
+    <p style="margin-bottom:40px">Everything a designer, marketer, or partner needs to represent Bidstream correctly — strategy through to a decade of expansion.</p>
+    <div class="toc">
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#strategy"><span>01</span>Brand Strategy</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#personality"><span>02</span>Brand Personality</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#logo"><span>03</span>Logo System</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#color"><span>04</span>Color System</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#type"><span>05</span>Typography</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#graphic"><span>06</span>Graphic Language</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#photo"><span>07</span>Photography</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#illustration"><span>08</span>Illustration</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#icon"><span>09</span>Iconography</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#motion"><span>10</span>Motion Design</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#product"><span>11</span>Digital Product</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#marketing"><span>12</span>Marketing Assets</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#social"><span>13</span>Social Media</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#voice"><span>14</span>Brand Voice</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#principles"><span>15</span>Design Principles</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#examples"><span>16</span>Applied Examples</a>
+      <a href="file:///C:/Users/adam_/Downloads/bidstream-brand-guidelines_4.html#future"><span>17</span>Future Expansion</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 01 STRATEGY ============ -->
+<section id="strategy">
+  <div class="wrap">
+    <div class="eyebrow">01 — Brand Strategy</div>
+    <h2>Signal over noise</h2>
+    <p class="lead">Procurement teams and bid managers drown in thousands of irrelevant tenders. Bidstream is the intelligence layer that filters the flood down to the contracts a company can genuinely win — and tells them why.</p>
+
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card"><h4 style="color:var(--signal)">Purpose</h4><p>To end wasted bidding. Every hour spent chasing an unwinnable contract is an hour stolen from one a company could have won.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">Vision</h4><p>A world where no qualified company misses a contract it was built to win — and no team wastes a proposal on one it can't.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">Mission</h4><p>To turn the entire public and private tender market into a filtered, ranked, and explained stream of real opportunities matched to each customer's capabilities.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">Brand Promise</h4><p><b>Know which contracts you can actually win.</b> Not more listings. Fewer, better ones — with the reasoning shown.</p></div>
+    </div>
+
+    <h3 style="margin-top:56px">Core Values</h3>
+    <div class="grid g4 keep" style="margin-top:20px">
+      <div class="card tint pad-sm"><h4>Clarity</h4><p style="font-size:13.5px">We remove noise. Every screen earns its space.</p></div>
+      <div class="card tint pad-sm"><h4>Evidence</h4><p style="font-size:13.5px">We show our reasoning. No black-box scores.</p></div>
+      <div class="card tint pad-sm"><h4>Precision</h4><p style="font-size:13.5px">A match means a match. We'd rather be right than loud.</p></div>
+      <div class="card tint pad-sm"><h4>Momentum</h4><p style="font-size:13.5px">Intelligence is only useful in time to act on it.</p></div>
+    </div>
+
+    <div class="grid g2" style="margin-top:48px">
+      <div>
+        <h3>Positioning</h3>
+        <p>Incumbents (GovWin IQ / Deltek, GovSpend) sell <em>access</em> to data. New AI entrants sell <em>volume</em> of matches. Bidstream sells <b>winnability</b> — the only metric a bid team is actually paid on. We are the category that answers "should we even bid?" before "how do we bid?"</p>
+      </div>
+      <div>
+        <h3>Brand Story</h3>
+        <p>Bidstream began with a simple frustration: the best-fit contracts were buried under thousands that were never worth a proposal. So we built a system that reads the whole market the way a seasoned bid director does — instantly, and at scale — then hands back only what's worth the fight, with the reasoning attached.</p>
+      </div>
+    </div>
+
+    <div class="grid g2" style="margin-top:32px">
+      <div class="card"><h4 style="color:var(--win-deep)">Emotional Impact</h4><p>Relief, then confidence. The feeling of a cluttered desk suddenly cleared — and knowing the few things left on it are the ones that matter.</p></div>
+      <div class="card"><h4 style="color:var(--win-deep)">Customer Perception</h4><p>"The tool that tells us the truth." Bidstream should feel less like a search engine and more like a sharp, honest advisor who won't let you waste a week.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 02 PERSONALITY ============ -->
+<section id="personality">
+  <div class="wrap">
+    <div class="eyebrow">02 — Brand Personality</div>
+    <h2>The Sage, with an edge</h2>
+    <p class="lead">Bidstream's archetype is <b>The Sage</b> — the trusted expert who cuts through confusion with clarity — sharpened by a touch of <b>The Ruler</b>: decisive, authoritative, in command of the field.</p>
+
+    <h3 style="margin-top:48px">Brand adjectives</h3>
+    <div style="margin-top:16px">
+      <span class="pill on">Precise</span><span class="pill on">Intelligent</span><span class="pill on">Trustworthy</span><span class="pill on">Decisive</span><span class="pill on">Clear</span>
+      <span class="pill">Confident</span><span class="pill">Modern</span><span class="pill">Data-native</span><span class="pill">Calm</span><span class="pill">Human</span>
+    </div>
+    <p class="muted" style="margin-top:14px">Filled pills are primary. We are precise before we are friendly, clear before we are clever.</p>
+
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card">
+        <h3>Tone of voice</h3>
+        <p>Direct, evidence-led, and quietly confident. We speak like a senior advisor who respects your time: short sentences, real numbers, no hype. We explain <em>why</em>, never just <em>what</em>. Warmth comes from usefulness, not from exclamation marks.</p>
+      </div>
+      <div class="card">
+        <h3>Communication style</h3>
+        <p>Lead with the answer. Support with evidence. Cut the qualifier. We favour plain enterprise English over jargon, and we never oversell a match — if confidence is 60%, we say 60%.</p>
+      </div>
+    </div>
+
+    <div class="grid g2" style="margin-top:24px">
+      <div class="dd do">
+        <div class="tag">✓ Do</div>
+        <ul>
+          <li>Say "3 contracts worth bidding this week" — specific, countable</li>
+          <li>Show the reasoning behind every match score</li>
+          <li>Use active voice: "We filtered 1,200 tenders down to 8"</li>
+          <li>Respect the reader's expertise; they know procurement</li>
+          <li>Let white space and one number carry the message</li>
+        </ul>
+      </div>
+      <div class="dd dont">
+        <div class="tag">× Don't</div>
+        <ul>
+          <li>Say "revolutionary AI-powered synergy platform"</li>
+          <li>Hide the logic behind a magic black-box score</li>
+          <li>Use fear ("don't miss out!") or false urgency</li>
+          <li>Over-explain to sound smart — trust the reader</li>
+          <li>Stack exclamation marks or emoji in product surfaces</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 03 LOGO ============ -->
+<section id="logo">
+  <div class="wrap">
+    <div class="eyebrow">03 — Logo System</div>
+    <h2>The mark</h2>
+    <p class="lead">The Bidstream symbol is <b>convergence</b>: many tender signals flowing in from the left, filtered through a focal point, and released as a single confident stream. It reads as a stylised "B", a signal funnel, and a data flow at once. The wordmark is set as <b>BidStream</b> — capital B, capital S — with "Bid" in ink and "Stream" in Signal Blue, so the two halves of the name (the problem, and the flow that solves it) read as one word but two ideas.</p>
+
+    <!-- Primary logo on light -->
+    <div class="stage-label" style="margin-top:48px">Primary logo — on white (default)</div>
+    <div class="logo-stage">
+      <svg width="340" height="90" viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bidstream">
+        <g fill="none" stroke="#3D7BFF" stroke-width="4" stroke-linecap="round">
+          <path d="M8 22 C 34 22, 44 45, 66 45"></path>
+          <path d="M8 45 L 60 45"></path>
+          <path d="M8 68 C 34 68, 44 45, 66 45"></path>
+        </g>
+        <circle cx="66" cy="45" r="6.5" fill="#FFB020"></circle>
+        <path d="M72 45 L 96 45" stroke="#FFB020" stroke-width="4" stroke-linecap="round"></path>
+        <text x="112" y="59" class="wordmark" font-size="42"><tspan fill="#0B1020">Bid</tspan><tspan fill="#3D7BFF">Stream</tspan></text>
+      </svg>
+    </div>
+
+    <div class="grid g2" style="margin-top:20px">
+      <div>
+        <div class="stage-label">On ink (reversed)</div>
+        <div class="logo-stage dark">
+          <svg width="300" height="80" viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bidstream reversed">
+            <g fill="none" stroke="#5C93FF" stroke-width="4" stroke-linecap="round">
+              <path d="M8 22 C 34 22, 44 45, 66 45"></path>
+              <path d="M8 45 L 60 45"></path>
+              <path d="M8 68 C 34 68, 44 45, 66 45"></path>
+            </g>
+            <circle cx="66" cy="45" r="6.5" fill="#FFB020"></circle>
+            <path d="M72 45 L 96 45" stroke="#FFB020" stroke-width="4" stroke-linecap="round"></path>
+            <text x="112" y="59" class="wordmark" font-size="42"><tspan fill="#F5F7FB">Bid</tspan><tspan fill="#5C93FF">Stream</tspan></text>
+          </svg>
+        </div>
+      </div>
+      <div>
+        <div class="stage-label">On signal blue — mono knockout</div>
+        <div class="logo-stage signal">
+          <svg width="300" height="80" viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bidstream on signal blue">
+            <g fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round">
+              <path d="M8 22 C 34 22, 44 45, 66 45"></path>
+              <path d="M8 45 L 60 45"></path>
+              <path d="M8 68 C 34 68, 44 45, 66 45"></path>
+            </g>
+            <circle cx="66" cy="45" r="6.5" fill="#FFFFFF"></circle>
+            <path d="M72 45 L 96 45" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+            <text x="112" y="59" class="wordmark" font-size="42" fill="#FFFFFF">BidStream</text>
+          </svg>
+        </div>
+      </div>
+    </div>
+
+    <!-- Symbol / monogram / vertical -->
+    <div class="grid g3" style="margin-top:20px">
+      <div>
+        <div class="stage-label">Symbol / App icon</div>
+        <div class="logo-stage" style="min-height:180px">
+          <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bidstream symbol">
+            <rect width="120" height="120" rx="28" fill="#0B1020"></rect>
+            <g fill="none" stroke="#5C93FF" stroke-width="5" stroke-linecap="round">
+              <path d="M28 38 C 52 38, 60 60, 80 60"></path>
+              <path d="M28 60 L 74 60"></path>
+              <path d="M28 82 C 52 82, 60 60, 80 60"></path>
+            </g>
+            <circle cx="80" cy="60" r="7.5" fill="#FFB020"></circle>
+            <path d="M87 60 L 100 60" stroke="#FFB020" stroke-width="5" stroke-linecap="round"></path>
+          </svg>
+        </div>
+      </div>
+      <div>
+        <div class="stage-label">Monogram</div>
+        <div class="logo-stage" style="min-height:180px">
+          <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bidstream monogram B">
+            <g fill="none" stroke="#3D7BFF" stroke-width="6" stroke-linecap="round">
+              <path d="M34 30 C 66 30, 78 60, 92 60"></path>
+              <path d="M34 60 L 86 60"></path>
+              <path d="M34 90 C 66 90, 78 60, 92 60"></path>
+              <path d="M34 30 L 34 90"></path>
+            </g>
+            <circle cx="92" cy="60" r="8" fill="#FFB020"></circle>
+          </svg>
+        </div>
+      </div>
+      <div>
+        <div class="stage-label">Vertical lockup</div>
+        <div class="logo-stage" style="min-height:180px">
+          <svg width="130" height="150" viewBox="0 0 130 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bidstream vertical">
+            <g fill="none" stroke="#3D7BFF" stroke-width="4.5" stroke-linecap="round" transform="translate(30,18)">
+              <path d="M0 14 C 22 14, 30 34, 46 34"></path>
+              <path d="M0 34 L 42 34"></path>
+              <path d="M0 54 C 22 54, 30 34, 46 34"></path>
+            </g>
+            <circle cx="76" cy="52" r="6.5" fill="#FFB020"></circle>
+            <path d="M82 52 L 98 52" stroke="#FFB020" stroke-width="4.5" stroke-linecap="round"></path>
+            <text x="65" y="118" text-anchor="middle" class="wordmark" font-size="26"><tspan fill="#0B1020">Bid</tspan><tspan fill="#3D7BFF">Stream</tspan></text>
+          </svg>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid g2" style="margin-top:40px">
+      <div class="card">
+        <h3>Clear space &amp; minimum size</h3>
+        <p>Keep clear space equal to the height of the amber node on all sides. Never crowd the mark with other elements.</p>
+        <table>
+          <tbody><tr><th>Context</th><th>Minimum</th></tr>
+          <tr><td>Full logo — digital</td><td class="mono">120px wide</td></tr>
+          <tr><td>Full logo — print</td><td class="mono">32mm wide</td></tr>
+          <tr><td>Symbol / favicon</td><td class="mono">24px / 16px</td></tr>
+        </tbody></table>
+      </div>
+      <div class="card">
+        <h3>Incorrect usage</h3>
+        <ul style="list-style:none">
+          <li style="padding:6px 0;padding-left:20px;position:relative;font-size:14px;color:#3C4457"><span style="position:absolute;left:0;color:var(--error)">×</span> Don't recolour the funnel or node outside brand palette</li>
+          <li style="padding:6px 0;padding-left:20px;position:relative;font-size:14px;color:#3C4457"><span style="position:absolute;left:0;color:var(--error)">×</span> Don't stretch, skew, or rotate the mark</li>
+          <li style="padding:6px 0;padding-left:20px;position:relative;font-size:14px;color:#3C4457"><span style="position:absolute;left:0;color:var(--error)">×</span> Don't add shadows, bevels, or outlines to the wordmark</li>
+          <li style="padding:6px 0;padding-left:20px;position:relative;font-size:14px;color:#3C4457"><span style="position:absolute;left:0;color:var(--error)">×</span> Don't set the wordmark in any typeface but Space Grotesk</li>
+          <li style="padding:6px 0;padding-left:20px;position:relative;font-size:14px;color:#3C4457"><span style="position:absolute;left:0;color:var(--error)">×</span> Don't place on low-contrast or busy photographic backgrounds</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 04 COLOR ============ -->
+<section id="color">
+  <div class="wrap">
+    <div class="eyebrow">04 — Color System</div>
+    <h2>Ink, signal, win</h2>
+    <p class="lead">A disciplined palette: a deep indigo ink for authority, one electric signal blue for the brand, and a single warm amber reserved for one thing only — the winnable moment. On a white canvas, these colors carry maximum clarity.</p>
+
+    <h3 style="margin-top:48px">Core palette</h3>
+    <div class="grid g4 keep" style="margin-top:20px">
+      <div class="swatch"><div class="chip" style="background:#0B1020"></div><div class="info"><div class="name">Indigo Ink</div><div class="hex">#0B1020 · rgb(11,16,32)</div><div class="use">Primary text, dark UI, authority.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#3D7BFF"></div><div class="info"><div class="name">Signal Blue</div><div class="hex">#3D7BFF · rgb(61,123,255)</div><div class="use">Primary brand. Logo, links, primary actions.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#FFB020"></div><div class="info"><div class="name">Win Amber</div><div class="hex">#FFB020 · rgb(255,176,32)</div><div class="use">Accent. The "win" node only. Use sparingly.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#2DD4BF"></div><div class="info"><div class="name">Flow Teal</div><div class="hex">#2DD4BF · rgb(45,212,191)</div><div class="use">Secondary. Data viz, secondary highlights.</div></div></div>
+    </div>
+
+    <h3 style="margin-top:40px">Neutrals &amp; surfaces</h3>
+    <div class="grid g4 keep" style="margin-top:20px">
+      <div class="swatch"><div class="chip" style="background:#FFFFFF;border-bottom:1px solid var(--line)"></div><div class="info"><div class="name">Paper</div><div class="hex">#FFFFFF</div><div class="use">Primary background.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#F5F7FB"></div><div class="info"><div class="name">Panel</div><div class="hex">#F5F7FB</div><div class="use">Cards, tinted panels.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#EAEEF6"></div><div class="info"><div class="name">Raised</div><div class="hex">#EAEEF6</div><div class="use">Hover states, dividers.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#5B647C"></div><div class="info"><div class="name">Mist</div><div class="hex">#5B647C</div><div class="use">Muted text, captions, metadata.</div></div></div>
+    </div>
+
+    <h3 style="margin-top:40px">System / semantic colors</h3>
+    <div class="grid g4 keep" style="margin-top:20px">
+      <div class="swatch"><div class="chip" style="background:#16A34A"></div><div class="info"><div class="name">Success</div><div class="hex">#16A34A</div><div class="use">Won bids, positive states.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#D97706"></div><div class="info"><div class="name">Warning</div><div class="hex">#D97706</div><div class="use">Deadlines approaching.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#DC2626"></div><div class="info"><div class="name">Error</div><div class="hex">#DC2626</div><div class="use">Failed states, missed deadlines.</div></div></div>
+      <div class="swatch"><div class="chip" style="background:#3D7BFF"></div><div class="info"><div class="name">Info</div><div class="hex">#3D7BFF</div><div class="use">Neutral system messages.</div></div></div>
+    </div>
+
+    <div class="card" style="margin-top:40px">
+      <h3>Full specification &amp; accessibility</h3>
+      <table>
+        <tbody><tr><th>Token</th><th>HEX</th><th>RGB</th><th>CMYK</th><th>Contrast on White</th></tr>
+        <tr><td><b>Indigo Ink</b></td><td class="mono">#0B1020</td><td class="mono">11,16,32</td><td class="mono">66,50,0,87</td><td>18.9:1 · AAA</td></tr>
+        <tr><td><b>Signal Blue</b></td><td class="mono">#3D7BFF</td><td class="mono">61,123,255</td><td class="mono">76,52,0,0</td><td>3.9:1 · AA large / UI</td></tr>
+        <tr><td><b>Win Amber</b></td><td class="mono">#FFB020</td><td class="mono">255,176,32</td><td class="mono">0,31,87,0</td><td>1.7:1 · accent only</td></tr>
+        <tr><td><b>Amber Deep</b></td><td class="mono">#E09600</td><td class="mono">224,150,0</td><td class="mono">0,33,100,12</td><td>2.6:1 · use ink text</td></tr>
+        <tr><td><b>Mist</b></td><td class="mono">#5B647C</td><td class="mono">91,100,124</td><td class="mono">27,19,0,51</td><td>6.1:1 · AA</td></tr>
+      </tbody></table>
+      <p class="muted" style="margin-top:16px">On white, Signal Blue clears AA for large text, buttons, and UI components; for small body links use it at 14px+ or pair with underline. Amber is never used for text — only for the accent node, highlights, and won-state chips (where it sits on a tint with ink or amber-deep text). Ink is the default text color and clears AAA comfortably.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 05 TYPOGRAPHY ============ -->
+<section id="type">
+  <div class="wrap">
+    <div class="eyebrow">05 — Typography</div>
+    <h2>Grotesk &amp; data</h2>
+    <p class="lead">Space Grotesk gives the brand its precise, slightly technical character. Inter carries the reading load. JetBrains Mono handles every number, score, and label — because in a data product, figures deserve their own voice.</p>
+
+    <div style="margin-top:48px">
+      <div class="type-spec">
+        <div><div class="display-xl wordmark">Bid<span style="color:#3D7BFF">Stream</span></div></div>
+        <div class="label">Space Grotesk · Display · 700 · -5.5% tracking</div>
+      </div>
+      <div class="type-spec">
+        <div class="display-l">Know which contracts you can win</div>
+        <div class="label">Space Grotesk · Headline · 600</div>
+      </div>
+      <div class="type-spec">
+        <div class="body-sample">We filtered 1,240 open tenders down to the eight worth your team's time this week — each with a confidence score and the reasoning behind it.</div>
+        <div class="label">Inter · Body · 400 / 500</div>
+      </div>
+      <div class="type-spec">
+        <div class="mono-sample">MATCH 94% · DEADLINE 12d · VALUE £2.4M</div>
+        <div class="label">JetBrains Mono · Data &amp; labels · 400 / 500</div>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:32px;border-left:3px solid var(--signal)">
+      <h4>Wordmark consistency rule</h4>
+      <p style="font-size:14px">The <b>BidStream</b> wordmark is always Space Grotesk <b>Bold (700)</b> with <b>−5.5% letter-spacing</b>, at every size — from the favicon to a billboard. Capitalize both the <b>B</b> and the <b>S</b>; set "Bid" in Indigo Ink (or white on dark) and "Stream" in Signal Blue. On a solid Signal Blue background the wordmark reverses to solid white for contrast. This tight tracking is what gives the logo its engineered character; loosening it flattens the personality. Never substitute the weight, spacing, capitalization, or color split.</p>
+    </div>
+
+    <div class="grid g2" style="margin-top:24px">
+      <div class="card">
+        <h3>Type scale &amp; hierarchy</h3>
+        <table>
+          <tbody><tr><th>Role</th><th>Face</th><th>Size / LH</th><th>Weight</th></tr>
+          <tr><td>Display</td><td>Space Grotesk</td><td class="mono">64/64</td><td>700</td></tr>
+          <tr><td>H1</td><td>Space Grotesk</td><td class="mono">44/48</td><td>600</td></tr>
+          <tr><td>H2</td><td>Space Grotesk</td><td class="mono">32/36</td><td>600</td></tr>
+          <tr><td>H3</td><td>Space Grotesk</td><td class="mono">22/28</td><td>600</td></tr>
+          <tr><td>Body L</td><td>Inter</td><td class="mono">18/28</td><td>400</td></tr>
+          <tr><td>Body</td><td>Inter</td><td class="mono">16/26</td><td>400</td></tr>
+          <tr><td>Caption</td><td>Inter</td><td class="mono">13/18</td><td>500</td></tr>
+          <tr><td>Data / label</td><td>JetBrains Mono</td><td class="mono">12/16</td><td>500</td></tr>
+        </tbody></table>
+      </div>
+      <div class="card">
+        <h3>Rules &amp; fallbacks</h3>
+        <p style="margin-bottom:16px">Tighten display tracking to −3% to −5.5%; leave body at 0. Never justify text. Line length 60–75 characters. Numbers in tables, scores, and metadata always use the mono face for alignment and to signal "this is data."</p>
+        <h4 style="margin-top:12px">Web-safe / licensing fallbacks</h4>
+        <table>
+          <tbody><tr><th>Brand face</th><th>Fallback stack</th></tr>
+          <tr><td>Space Grotesk</td><td class="mono">Arial, Helvetica, sans-serif</td></tr>
+          <tr><td>Inter</td><td class="mono">-apple-system, Segoe UI, Roboto</td></tr>
+          <tr><td>JetBrains Mono</td><td class="mono">SFMono, Consolas, monospace</td></tr>
+        </tbody></table>
+        <p class="muted" style="margin-top:12px">All three are free, open-source (SIL OFL / Apache) Google Fonts — no licensing cost across web, product, or print.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 06 GRAPHIC LANGUAGE ============ -->
+<section id="graphic">
+  <div class="wrap">
+    <div class="eyebrow">06 — Graphic Language</div>
+    <h2>The stream motif</h2>
+    <p class="lead">One idea drives every graphic: many lines flowing in, converging at a node, releasing as one. It appears as backgrounds, dividers, loading states, and data viz — always the same grammar.</p>
+
+    <div class="grid g3" style="margin-top:48px">
+      <div class="card">
+        <div class="stage-label">Convergence pattern</div>
+        <svg width="100%" height="120" viewBox="0 0 260 120" xmlns="http://www.w3.org/2000/svg">
+          <g stroke="#3D7BFF" stroke-width="1.5" fill="none" opacity="0.85">
+            <path d="M0 20 C 90 20, 110 60, 180 60"></path>
+            <path d="M0 45 C 90 45, 120 60, 180 60"></path>
+            <path d="M0 60 L 176 60"></path>
+            <path d="M0 75 C 90 75, 120 60, 180 60"></path>
+            <path d="M0 100 C 90 100, 110 60, 180 60"></path>
+          </g>
+          <circle cx="180" cy="60" r="5" fill="#FFB020"></circle>
+          <path d="M185 60 L 260 60" stroke="#FFB020" stroke-width="2"></path>
+        </svg>
+      </div>
+      <div class="card">
+        <div class="stage-label">Node grid texture</div>
+        <svg width="100%" height="120" viewBox="0 0 260 120" xmlns="http://www.w3.org/2000/svg">
+          <g fill="#3D7BFF" opacity="0.5">
+            <circle cx="30" cy="30" r="2"></circle><circle cx="80" cy="30" r="2"></circle><circle cx="130" cy="30" r="2"></circle><circle cx="180" cy="30" r="2"></circle><circle cx="230" cy="30" r="2"></circle>
+            <circle cx="30" cy="60" r="2"></circle><circle cx="80" cy="60" r="2"></circle><circle cx="130" cy="60" r="2"></circle><circle cx="180" cy="60" r="2"></circle><circle cx="230" cy="60" r="2"></circle>
+            <circle cx="30" cy="90" r="2"></circle><circle cx="80" cy="90" r="2"></circle><circle cx="130" cy="90" r="2"></circle><circle cx="180" cy="90" r="2"></circle><circle cx="230" cy="90" r="2"></circle>
+          </g>
+          <circle cx="130" cy="60" r="5" fill="#FFB020"></circle>
+        </svg>
+      </div>
+      <div class="card">
+        <div class="stage-label">Gradient field</div>
+        <svg width="100%" height="120" viewBox="0 0 260 120" xmlns="http://www.w3.org/2000/svg">
+          <defs><radialgradient id="gf" cx="0.7" cy="0.4"><stop offset="0" stop-color="#3D7BFF" stop-opacity="0.32"></stop><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"></stop></radialgradient></defs>
+          <rect width="260" height="120" fill="#F5F7FB"></rect>
+          <rect width="260" height="120" fill="url(#gf)"></rect>
+          <circle cx="182" cy="48" r="5" fill="#FFB020"></circle>
+        </svg>
+      </div>
+    </div>
+
+    <div class="grid g2" style="margin-top:24px">
+      <div class="card">
+        <h3>System rules</h3>
+        <table>
+          <tbody><tr><th>Element</th><th>Specification</th></tr>
+          <tr><td>Corner radius</td><td class="mono">10 / 16 / 28px scale</td></tr>
+          <tr><td>Lines &amp; strokes</td><td class="mono">1px hairlines, 4px logo weight</td></tr>
+          <tr><td>Borders</td><td class="mono">#E2E7F0 on white</td></tr>
+          <tr><td>Gradients</td><td class="mono">Signal→White, radial, ≤32% opacity</td></tr>
+          <tr><td>Grid</td><td class="mono">12-col, 8px baseline unit</td></tr>
+        </tbody></table>
+      </div>
+      <div class="card">
+        <h3>Depth, glass &amp; shadow</h3>
+        <p>On white, depth is subtle: a single soft shadow (0 8px 30px rgba(11,16,32,.08)), never stacked. Cards lift gently on hover to the Raised surface. A faint 1px hairline defines edges rather than heavy borders. No embossing, no skeuomorphism, no drop-shadowed text — the brand's depth comes from light layering and restraint.</p>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:24px">
+      <h3>Motion principles</h3>
+      <p>Everything <em>flows left to right</em>, mirroring the stream. Elements ease in along the convergence path; the amber node is the last thing to settle. Standard easing <span class="mono">cubic-bezier(0.22,1,0.36,1)</span>, durations 200–400ms. Motion is confident and calm — never bouncy, never decorative for its own sake.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 07 PHOTOGRAPHY ============ -->
+<section id="photo">
+  <div class="wrap">
+    <div class="eyebrow">07 — Photography Style</div>
+    <h2>Considered, not stocky</h2>
+    <p class="lead">Photography is a supporting player — Bidstream is a data brand first. When we use it, it's editorial, calm, and real.</p>
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card">
+        <table>
+          <tbody><tr><th>Attribute</th><th>Direction</th></tr>
+          <tr><td>Composition</td><td>Wide, generous negative space; subject off-centre on a rule-of-thirds line</td></tr>
+          <tr><td>Lighting</td><td>Soft, directional, natural window light; bright and clean</td></tr>
+          <tr><td>Depth</td><td>Shallow focus to isolate; clean, light backgrounds</td></tr>
+          <tr><td>Color grade</td><td>Bright, slightly cool, airy — echoing the white canvas</td></tr>
+          <tr><td>People</td><td>Real professionals mid-work, candid, never posed hero shots</td></tr>
+          <tr><td>Mood</td><td>Focused, quiet confidence, in-control</td></tr>
+        </tbody></table>
+      </div>
+      <div class="grid g2" style="gap:20px;align-content:start">
+        <div class="dd do"><div class="tag">✓ Use</div><ul><li>Real workspaces, honest moments</li><li>Bright, airy, cool-clean grade</li><li>Abstract macro of light &amp; flow</li><li>Generous breathing room</li></ul></div>
+        <div class="dd dont"><div class="tag">× Avoid</div><ul><li>Cheesy handshake / thumbs-up stock</li><li>Heavy orange business-y grading</li><li>Fake "AI" glowing brain imagery</li><li>Cluttered, busy compositions</li></ul></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 08 ILLUSTRATION ============ -->
+<section id="illustration">
+  <div class="wrap">
+    <div class="eyebrow">08 — Illustration Style</div>
+    <h2>Geometric &amp; systemic</h2>
+    <p class="lead">Illustration extends the stream motif into diagrams and spot graphics — geometric, line-led, and built from the same nodes and flows as the logo.</p>
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card">
+        <table>
+          <tbody><tr><th>Attribute</th><th>Specification</th></tr>
+          <tr><td>Style</td><td>Geometric, minimal, line-based with selective fills</td></tr>
+          <tr><td>Line weight</td><td>Consistent 2px strokes, rounded caps</td></tr>
+          <tr><td>Dimension</td><td>Flat with occasional subtle depth via gradient, never full 3D cartoon</td></tr>
+          <tr><td>Color</td><td>Signal Blue + Ink line on white, one Amber focal point max</td></tr>
+          <tr><td>Shadow</td><td>None or single flat offset tint</td></tr>
+        </tbody></table>
+      </div>
+      <div class="card" style="display:flex;align-items:center;justify-content:center">
+        <svg width="220" height="160" viewBox="0 0 220 160" xmlns="http://www.w3.org/2000/svg">
+          <g fill="none" stroke="#3D7BFF" stroke-width="2" stroke-linecap="round">
+            <rect x="20" y="24" width="36" height="24" rx="5"></rect>
+            <rect x="20" y="68" width="36" height="24" rx="5"></rect>
+            <rect x="20" y="112" width="36" height="24" rx="5"></rect>
+            <path d="M56 36 C 100 36, 110 80, 150 80"></path>
+            <path d="M56 80 L 148 80"></path>
+            <path d="M56 124 C 100 124, 110 80, 150 80"></path>
+          </g>
+          <circle cx="150" cy="80" r="8" fill="#FFB020"></circle>
+          <rect x="176" y="66" width="30" height="28" rx="6" fill="none" stroke="#2DD4BF" stroke-width="2"></rect>
+          <path d="M158 80 L 176 80" stroke="#FFB020" stroke-width="2"></path>
+        </svg>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 09 ICONOGRAPHY ============ -->
+<section id="icon">
+  <div class="wrap">
+    <div class="eyebrow">09 — Iconography</div>
+    <h2>One consistent set</h2>
+    <p class="lead">Outline icons, 2px stroke, rounded joins — matching the logo's construction. Filled variants only for active/selected states.</p>
+    <div class="grid g4 keep" style="margin-top:48px">
+      <div class="card" style="text-align:center">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="#3D7BFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 12h28M6 20h28M6 28h18"></path></svg>
+        <h4 style="margin-top:14px">Stream</h4>
+      </div>
+      <div class="card" style="text-align:center">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="#3D7BFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8h24l-9 11v9l-6 3v-12z"></path></svg>
+        <h4 style="margin-top:14px">Filter</h4>
+      </div>
+      <div class="card" style="text-align:center">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="#3D7BFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="18" r="10"></circle><path d="M26 26l6 6"></path></svg>
+        <h4 style="margin-top:14px">Search</h4>
+      </div>
+      <div class="card" style="text-align:center">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" stroke="#E09600" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6l4 9 10 1-7 7 2 10-9-5-9 5 2-10-7-7 10-1z"></path></svg>
+        <h4 style="margin-top:14px">Win match</h4>
+      </div>
+    </div>
+    <div class="card" style="margin-top:24px">
+      <table>
+        <tbody><tr><th>Attribute</th><th>Specification</th></tr>
+        <tr><td>Grid</td><td class="mono">24×24 with 2px padding</td></tr>
+        <tr><td>Stroke</td><td class="mono">2px, rounded caps &amp; joins</td></tr>
+        <tr><td>Corners</td><td>Rounded (2px radius) — never sharp</td></tr>
+        <tr><td>Style</td><td>Outline default; filled = active state</td></tr>
+        <tr><td>Animation</td><td>Draw-on along path, 250ms, or subtle color shift on hover</td></tr>
+      </tbody></table>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 10 MOTION ============ -->
+<section id="motion">
+  <div class="wrap">
+    <div class="eyebrow">10 — Motion Design</div>
+    <h2>Everything flows</h2>
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card"><h4 style="color:var(--signal)">Logo animation</h4><p style="font-size:14px">Three lines draw in left-to-right and converge; the amber node pulses once on arrival. 900ms total.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">Transitions</h4><p style="font-size:14px">Content slides in from the left along an ease-out curve; pages never fade blankly.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">Micro-interactions</h4><p style="font-size:14px">Buttons lift 1px and brighten; match scores count up on reveal.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">UI animations</h4><p style="font-size:14px">List filtering animates rows out along the stream path — you see noise being removed.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">Loading</h4><p style="font-size:14px">The convergence pattern animates as the loader — literally "streaming" results in.</p></div>
+      <div class="card"><h4 style="color:var(--signal)">Social / presentation</h4><p style="font-size:14px">Left-to-right wipes, node-pulse punctuation, mono figures ticking up. Calm, never frantic.</p></div>
+    </div>
+    <div class="card" style="margin-top:24px">
+      <p><b>Global rules:</b> easing <span class="mono">cubic-bezier(0.22,1,0.36,1)</span> · durations 200–400ms (900ms for signature moments) · always honour <span class="mono">prefers-reduced-motion</span> · one focal motion per screen.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 11 DIGITAL PRODUCT ============ -->
+<section id="product">
+  <div class="wrap">
+    <div class="eyebrow">11 — Digital Product Style</div>
+    <h2>The product is the brand</h2>
+    <p class="lead">Bidstream lives mostly as a dashboard. This is where the identity works hardest: clean, light, data-dense but calm, with the amber "win" moment as the reward.</p>
+
+    <div class="ui-mock" style="margin-top:48px">
+      <div class="ui-top">
+        <div class="dot" style="background:#DC2626"></div><div class="dot" style="background:#D97706"></div><div class="dot" style="background:#16A34A"></div>
+        <span class="mono" style="margin-left:12px;font-size:12px;color:var(--mist)">app.bidstream.io/opportunities</span>
+      </div>
+      <div class="ui-body">
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;flex-wrap:wrap;gap:12px">
+          <div>
+            <div class="mono" style="font-size:11px;color:var(--mist);letter-spacing:.1em">THIS WEEK · FILTERED FROM 1,240</div>
+            <h3 style="margin-top:6px">8 contracts worth bidding</h3>
+          </div>
+          <div style="display:flex;gap:10px"><button class="btn btn-ghost">Filters</button><button class="btn btn-primary">Export brief</button></div>
+        </div>
+        <div class="win-row"><div><b>Regional Rail Signalling Upgrade</b><div class="mono" style="font-size:11px;color:var(--mist);margin-top:4px">ENGINEERING · £2.4M · 12 DAYS LEFT</div></div><span class="score high">MATCH 94%</span></div>
+        <div class="win-row"><div><b>MOD Cyber Resilience Framework</b><div class="mono" style="font-size:11px;color:var(--mist);margin-top:4px">DEFENCE · £1.1M · 20 DAYS LEFT</div></div><span class="score high">MATCH 88%</span></div>
+        <div class="win-row"><div><b>City Data Platform Modernisation</b><div class="mono" style="font-size:11px;color:var(--mist);margin-top:4px">IT SERVICES · £780K · 9 DAYS LEFT</div></div><span class="score mid">MATCH 71%</span></div>
+        <div class="win-row" style="opacity:.6"><div><b>Facilities Management, Zone 4</b><div class="mono" style="font-size:11px;color:var(--mist);margin-top:4px">FACILITIES · £340K · 5 DAYS LEFT</div></div><span class="score low">MATCH 22%</span></div>
+      </div>
+    </div>
+
+    <div class="grid g3" style="margin-top:24px">
+      <div class="card pad-sm"><h4>Buttons</h4><p style="font-size:13px">Primary = Signal fill, 10px radius. Ghost = 1px border. One primary per view.</p></div>
+      <div class="card pad-sm"><h4>Cards &amp; rows</h4><p style="font-size:13px">White fill, 16px radius, 1px hairline, soft shadow. Hover raises to Panel tint.</p></div>
+      <div class="card pad-sm"><h4>Forms</h4><p style="font-size:13px">White inputs, Signal focus ring (2px), mono for numeric fields.</p></div>
+      <div class="card pad-sm"><h4>Navigation</h4><p style="font-size:13px">Left rail, symbol at top, active item marked by Signal bar + node.</p></div>
+      <div class="card pad-sm"><h4>Spacing</h4><p style="font-size:13px">8px baseline grid. Generous — density comes from data, not cramming.</p></div>
+      <div class="card pad-sm"><h4>Accessibility</h4><p style="font-size:13px">AA minimum, visible focus, motion-safe, never colour-only status.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 12 MARKETING ============ -->
+<section id="marketing">
+  <div class="wrap">
+    <div class="eyebrow">12 — Marketing Assets</div>
+    <h2>Consistent everywhere</h2>
+    <p class="lead">Every touchpoint uses the same three moves: white or ink base, one signal accent, one amber node. Recognisable at a glance across formats.</p>
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card">
+        <h3>Print &amp; physical</h3>
+        <table>
+          <tbody><tr><th>Asset</th><th>Treatment</th></tr>
+          <tr><td>Business card</td><td>White front with mark; reverse ink with mono knockout details</td></tr>
+          <tr><td>Letterhead</td><td>Minimal — mark top-left, hairline footer, generous margins</td></tr>
+          <tr><td>Rollups / booths</td><td>White field, convergence pattern, one headline, one node</td></tr>
+          <tr><td>Merchandise</td><td>Symbol only, single-colour, on white or ink</td></tr>
+          <tr><td>Packaging</td><td>Matte white, spot-amber node, ink symbol</td></tr>
+        </tbody></table>
+      </div>
+      <div class="card">
+        <h3>Digital &amp; profile</h3>
+        <table>
+          <tbody><tr><th>Asset</th><th>Treatment</th></tr>
+          <tr><td>Email signature</td><td>Mark + name, Inter, Signal link, clean white block</td></tr>
+          <tr><td>LinkedIn banner</td><td>White + convergence, promise line in Space Grotesk</td></tr>
+          <tr><td>YouTube</td><td>Symbol watermark, mono lower-thirds</td></tr>
+          <tr><td>Presentations</td><td>White slides, one idea each, mono data callouts</td></tr>
+          <tr><td>Advertising</td><td>One number, one promise, one node — never crowded</td></tr>
+        </tbody></table>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 13 SOCIAL ============ -->
+<section id="social">
+  <div class="wrap">
+    <div class="eyebrow">13 — Social Media Identity</div>
+    <h2>Templated, not repetitive</h2>
+    <p class="lead">A tight system of post types keeps the feed unmistakably Bidstream while staying fresh. White base, mono metadata, one focal number.</p>
+    <div class="grid g3" style="margin-top:48px">
+      <div class="card" style="padding:0;overflow:hidden">
+        <div style="background:#fff;padding:28px;aspect-ratio:1;display:flex;flex-direction:column;justify-content:space-between;border-bottom:1px solid var(--line)">
+          <div class="mono" style="font-size:10px;color:var(--signal);letter-spacing:.15em">STAT POST</div>
+          <div><div class="wordmark" style="font-size:52px;font-weight:700;color:var(--ink);line-height:1">281</div><p style="font-size:12px;margin-top:4px">days is the average LinkedIn first-touch-to-revenue. Bidstream shortens the list you're chasing.</p></div>
+          <div style="display:flex;align-items:center;gap:8px"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="#3D7BFF" stroke-width="2"><path d="M3 6h14M3 10h14M3 14h9"></path></svg><span class="mono" style="font-size:10px;color:var(--mist)">bidstream</span></div>
+        </div>
+      </div>
+      <div class="card" style="padding:0;overflow:hidden">
+        <div style="background:var(--paper-2);padding:28px;aspect-ratio:1;display:flex;flex-direction:column;justify-content:space-between">
+          <div class="mono" style="font-size:10px;color:var(--win-deep);letter-spacing:.15em">QUOTE / PROOF</div>
+          <div class="wordmark" style="font-size:22px;font-weight:600;color:var(--ink);line-height:1.25;letter-spacing:-.02em">"We stopped bidding on contracts we were never going to win."</div>
+          <div class="mono" style="font-size:10px;color:var(--mist)">— HEAD OF BIDS, ENGINEERING FIRM</div>
+        </div>
+      </div>
+      <div class="card" style="padding:0;overflow:hidden">
+        <div style="background:linear-gradient(135deg,#3D7BFF,#1C2540);padding:28px;aspect-ratio:1;display:flex;flex-direction:column;justify-content:space-between">
+          <div class="mono" style="font-size:10px;color:#fff;letter-spacing:.15em">LAUNCH</div>
+          <div class="wordmark" style="font-size:28px;font-weight:700;color:#fff;line-height:1.1;letter-spacing:-.03em">Know which contracts you can actually win.</div>
+          <button class="btn" style="background:#fff;color:var(--ink);align-self:flex-start;font-size:12px;padding:8px 16px">Start free →</button>
+        </div>
+      </div>
+    </div>
+    <div class="card" style="margin-top:24px">
+      <table>
+        <tbody><tr><th>Format</th><th>Spec</th></tr>
+        <tr><td>Feed post</td><td class="mono">1080×1080 · 64px safe margin</td></tr>
+        <tr><td>Story / Reel</td><td class="mono">1080×1920 · node lower-third</td></tr>
+        <tr><td>YouTube thumb</td><td class="mono">1280×720 · one number, symbol</td></tr>
+        <tr><td>Colour</td><td>White base default; gradient reserved for launches only</td></tr>
+      </tbody></table>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 14 VOICE ============ -->
+<section id="voice">
+  <div class="wrap">
+    <div class="eyebrow">14 — Brand Voice</div>
+    <h2>How Bidstream speaks</h2>
+    <div style="margin-top:48px">
+      <div class="voice"><div class="ctx">Homepage hero</div><div class="txt">Know which contracts you can actually win.</div><div class="sub">Bidstream reads the entire tender market and hands back only the opportunities matched to what you do — with the reasoning shown.</div></div>
+      <div class="voice"><div class="ctx">Tagline</div><div class="txt">Signal over noise.</div></div>
+      <div class="voice"><div class="ctx">About page opener</div><div class="txt">We got tired of watching good teams waste weeks on contracts they were never going to win.</div><div class="sub">So we built the intelligence layer that filters the whole market down to what's worth the fight.</div></div>
+      <div class="voice"><div class="ctx">CTA buttons</div><div class="txt">Start free · See your matches · Export the brief</div><div class="sub">Verbs first. Say exactly what happens next.</div></div>
+      <div class="voice"><div class="ctx">Investor line</div><div class="txt">We monetise the one metric a bid team is actually measured on: win rate.</div></div>
+      <div class="voice"><div class="ctx">Customer support</div><div class="txt">Here's what happened, and here's the fix.</div><div class="sub">Plain, direct, no corporate apology theatre. Solve it, then move on.</div></div>
+      <div class="voice"><div class="ctx">Recruitment</div><div class="txt">Help companies stop wasting their best people on unwinnable work.</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 15 PRINCIPLES ============ -->
+<section id="principles" class="ink-section">
+  <div class="wrap">
+    <div class="eyebrow">15 — Design Principles</div>
+    <h2>Ten rules for every designer</h2>
+    <div style="margin-top:40px">
+      <div class="principle"><div class="num">01</div><div><h4>Signal over noise</h4><p style="font-size:14px">If an element doesn't help the reader decide or act, remove it. Emptiness is a feature.</p></div></div>
+      <div class="principle"><div class="num">02</div><div><h4>Show the reasoning</h4><p style="font-size:14px">Never present a score, match, or claim without the evidence a click away.</p></div></div>
+      <div class="principle"><div class="num">03</div><div><h4>One amber moment</h4><p style="font-size:14px">Amber is sacred. Use it only for the winnable moment — never as decoration.</p></div></div>
+      <div class="principle"><div class="num">04</div><div><h4>Data deserves the mono</h4><p style="font-size:14px">Every number, score, and label is set in JetBrains Mono. Figures are first-class.</p></div></div>
+      <div class="principle"><div class="num">05</div><div><h4>Flow left to right</h4><p style="font-size:14px">Motion and layout follow the stream. Convergence is the through-line.</p></div></div>
+      <div class="principle"><div class="num">06</div><div><h4>Light-first, calm always</h4><p style="font-size:14px">White is home. Density comes from information, never from clutter.</p></div></div>
+      <div class="principle"><div class="num">07</div><div><h4>Accessible by default</h4><p style="font-size:14px">AA minimum contrast, visible focus, motion-safe. Non-negotiable.</p></div></div>
+      <div class="principle"><div class="num">08</div><div><h4>Say it straight</h4><p style="font-size:14px">Plain verbs, real numbers, no hype. Respect the reader's expertise.</p></div></div>
+      <div class="principle"><div class="num">09</div><div><h4>One idea per surface</h4><p style="font-size:14px">Every slide, card, and ad carries a single message. Split, don't cram.</p></div></div>
+      <div class="principle"><div class="num">10</div><div><h4>The product is the brand</h4><p style="font-size:14px">Marketing borrows from the product, not the reverse. Ship the identity in the UI first.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 16 EXAMPLES ============ -->
+<section id="examples">
+  <div class="wrap">
+    <div class="eyebrow">16 — Applied Examples</div>
+    <h2>The system in the wild</h2>
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card" style="padding:0;overflow:hidden">
+        <div class="stage-label" style="padding:16px 20px 0">Website hero</div>
+        <div style="padding:28px;background:#fff">
+          <div class="mono" style="font-size:10px;color:var(--signal);letter-spacing:.15em">AI TENDER INTELLIGENCE</div>
+          <div class="wordmark" style="font-size:30px;font-weight:700;color:var(--ink);line-height:1.05;margin:10px 0;letter-spacing:-.03em">Know which contracts you can actually win.</div>
+          <p style="font-size:13px">Filtered from thousands. Ranked by winnability. Reasoning included.</p>
+          <button class="btn btn-primary" style="margin-top:16px">Start free →</button>
+        </div>
+      </div>
+      <div class="card" style="padding:0;overflow:hidden">
+        <div class="stage-label" style="padding:16px 20px 0">Investor deck slide</div>
+        <div style="padding:28px;background:var(--paper-2)">
+          <div class="mono" style="font-size:10px;color:var(--mist);letter-spacing:.15em">THE OPPORTUNITY</div>
+          <div style="display:flex;gap:24px;margin-top:14px;align-items:baseline"><div class="wordmark" style="font-size:44px;font-weight:700;color:var(--win-deep)">500+</div><p style="font-size:13px">tech companies in warm outreach pipeline, all bidding blind today.</p></div>
+        </div>
+      </div>
+      <div class="card" style="padding:0;overflow:hidden">
+        <div class="stage-label" style="padding:16px 20px 0">Business card</div>
+        <div style="padding:28px;background:#fff;aspect-ratio:1.75;display:flex;flex-direction:column;justify-content:space-between;border:1px solid var(--line);border-radius:12px;margin:16px">
+          <svg width="120" height="26" viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="#3D7BFF" stroke-width="4" stroke-linecap="round"><path d="M8 22 C 34 22, 44 45, 66 45"></path><path d="M8 45 L 60 45"></path><path d="M8 68 C 34 68, 44 45, 66 45"></path></g><circle cx="66" cy="45" r="6.5" fill="#FFB020"></circle><path d="M72 45 L 96 45" stroke="#FFB020" stroke-width="4"></path><text x="112" y="59" font-family="Space Grotesk" font-weight="700" font-size="42" letter-spacing="-2.3"><tspan fill="#0B1020">Bid</tspan><tspan fill="#3D7BFF">Stream</tspan></text></svg>
+          <div class="mono" style="font-size:10px;color:var(--mist)">ADAM · FOUNDER<br>adam@bidstream.io</div>
+        </div>
+      </div>
+      <div class="card" style="padding:0;overflow:hidden">
+        <div class="stage-label" style="padding:16px 20px 0">Poster / ad</div>
+        <div style="padding:28px;background:#fff;aspect-ratio:1.75;display:flex;flex-direction:column;justify-content:center;border:1px solid var(--line);border-radius:12px;margin:16px">
+          <div class="wordmark" style="font-size:26px;font-weight:700;color:var(--ink);line-height:1.1;letter-spacing:-.03em">Stop bidding<br>on losses.</div>
+          <div class="mono" style="font-size:10px;color:var(--win-deep);margin-top:12px;letter-spacing:.15em">BIDSTREAM.IO</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 17 FUTURE ============ -->
+<section id="future" class="ink-section">
+  <div class="wrap">
+    <div class="eyebrow">17 — Future Expansion</div>
+    <h2>Built to scale for a decade</h2>
+    <p class="lead">The identity is a system, not a poster. It flexes across verticals, products, and markets without losing its core: white canvas, signal blue, one amber win.</p>
+    <div class="grid g2" style="margin-top:48px">
+      <div class="card"><h4 style="color:var(--signal-bright)">Vertical sub-brands</h4><p>As Bidstream doubles down on Engineering &amp; Construction and Defence, each vertical gets a tint variant of the palette (a shifted secondary) while white, signal, and amber stay fixed — recognisably one family.</p></div>
+      <div class="card"><h4 style="color:var(--signal-bright)">Product suite</h4><p>New modules (Market Report, API, white-label) inherit the symbol with a distinguishing suffix lockup. The convergence mark scales from favicon to conference stage.</p></div>
+      <div class="card"><h4 style="color:var(--signal-bright)">The Tender Market Report</h4><p>The Phase 4 annual report becomes the brand's flagship editorial artifact — same type system, elevated with data-viz built entirely from the stream motif.</p></div>
+      <div class="card"><h4 style="color:var(--signal-bright)">Category ownership</h4><p>As "winnability" becomes a known category, the amber node can stand alone as a recognised mark — the way a single shape comes to mean a company. Protect it; never dilute it.</p></div>
+    </div>
+    <div class="card tint" style="margin-top:32px;text-align:center;padding:40px">
+      <p style="max-width:none;margin:0 auto;font-family:var(--serif);font-size:22px;color:#fff;line-height:1.3;font-weight:600;letter-spacing:-.02em">The rule for the next ten years is simple:<br><span style="color:var(--win)">when in doubt, remove noise.</span></p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer style="background:var(--ink)">
+  <div class="wrap">
+    <div class="logo-foot">
+      <svg width="200" height="54" viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg" style="margin:0 auto"><g fill="none" stroke="#5C93FF" stroke-width="4" stroke-linecap="round"><path d="M8 22 C 34 22, 44 45, 66 45"></path><path d="M8 45 L 60 45"></path><path d="M8 68 C 34 68, 44 45, 66 45"></path></g><circle cx="66" cy="45" r="6.5" fill="#FFB020"></circle><path d="M72 45 L 96 45" stroke="#FFB020" stroke-width="4"></path><text x="112" y="59" font-family="Space Grotesk" font-weight="700" font-size="42" letter-spacing="-2.3"><tspan fill="#F5F7FB">Bid</tspan><tspan fill="#5C93FF">Stream</tspan></text></svg>
+    </div>
+    <p class="divider-note">Brand Guidelines v1.1 · 2026 · Know which contracts you can actually win.</p>
+  </div>
+</footer>
+
+
+
+</body></html>
