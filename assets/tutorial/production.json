@@ -1,0 +1,12 @@
+{
+  "title": "BidStream \u2014 the complete guided walkthrough",
+  "duration_seconds": 600,
+  "voice_provider": "ElevenLabs",
+  "voice_name": "Alice",
+  "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "model_id": "eleven_multilingual_v2",
+  "captured_on": "2026-10-20",
+  "format": "1920x1080 H.264 / AAC",
+  "presentation": "Authentic UI still captures with animated cursor guidance and chapter cards",
+  "caption_timing": "Estimated phrase timing against each chapter narration"
+}
