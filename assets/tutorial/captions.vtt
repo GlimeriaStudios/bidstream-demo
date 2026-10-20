@@ -99,29 +99,30 @@ keeping
 00:01:55.217 --> 00:01:59.000
 both discovery and preparation grounded in a company profile.
 
-00:02:00.000 --> 00:02:04.203
-Every company can bring its own AI workspace into BidStream.
+00:02:00.000 --> 00:02:04.143
+Every company can connect its own AI workspace. Create a
 
-00:02:04.203 --> 00:02:08.406
-Here, Nordway uses the connected ChatGPT account for its
-preparation.
+00:02:04.143 --> 00:02:08.286
+dedicated BidStream project in regular ChatGPT, Claude or your
+chosen
 
-00:02:08.406 --> 00:02:12.609
-Open Integrations from the profile menu, sign in and enable
+00:02:08.286 --> 00:02:12.429
+assistant, keeping company instructions and bid conversations
+together. Here, Nordway
 
-00:02:12.609 --> 00:02:16.812
-the BidStream connection in ChatGPT. Send a pursuit’s document
-package,
+00:02:12.429 --> 00:02:16.571
+uses ChatGPT with the BidStream app connected. Share the pursuit
 
-00:02:16.812 --> 00:02:21.014
-work with your assistant, then return the analysis and drafts
+00:02:16.571 --> 00:02:20.714
+documents and ask for the analysis. The connection knows the
 
-00:02:21.014 --> 00:02:25.217
-for review. Company documents and results stay organised within
-the
+00:02:20.714 --> 00:02:24.857
+required fields and writes the results directly into BidStream,
+keeping
 
-00:02:25.217 --> 00:02:29.000
-right workspace, while each company chooses its own connection.
+00:02:24.857 --> 00:02:29.000
+requirements, specialist contributions and response drafts in the
+right places.
 
 00:02:30.000 --> 00:02:34.328
 Open Discover to explore opportunities from the World Bank and
@@ -212,30 +213,29 @@ giving your team a route forward whether the buyer requests
 00:04:25.588 --> 00:04:29.000
 an initial expression of interest or a tender.
 
-00:04:30.000 --> 00:04:34.203
-Inside the pursuit, upload the tender, terms of reference and
+00:04:30.000 --> 00:04:34.265
+Open the pursuit overview and upload the buyer’s tender
+documents,
 
-00:04:34.203 --> 00:04:38.406
-supporting attachments. Choose the procurement route and add your
-priorities
+00:04:34.265 --> 00:04:38.529
+terms of reference and required forms. Add your priorities in
 
-00:04:38.406 --> 00:04:42.609
-for the response. Send the document package, then open ChatGPT
+00:04:38.529 --> 00:04:42.794
+the instructions field, then share the document package with your
 
-00:04:42.609 --> 00:04:46.812
-and request an analysis of requirements, qualification
-prerequisites and the
+00:04:42.794 --> 00:04:47.059
+connected assistant. Ask it to analyse the requirements using the
 
-00:04:46.812 --> 00:04:51.014
-buyer’s chapter structure. Return to BidStream and get the
-analysis
+00:04:47.059 --> 00:04:51.324
+company evidence. The assistant returns structured work directly
+to BidStream,
 
-00:04:51.014 --> 00:04:55.217
-and drafts. Review and apply the results to create a
+00:04:51.324 --> 00:04:55.588
+where the matching fields update automatically. Open Requirements
+and Prerequisites
 
-00:04:55.217 --> 00:04:59.000
-shared brief, with source quotations supporting each important
-requirement.
+00:04:55.588 --> 00:04:59.000
+to inspect the buyer’s wording and supporting evidence.
 
 00:05:00.000 --> 00:05:04.203
 Open Requirements to inspect the extracted criteria. Read each
@@ -288,53 +288,54 @@ Missing and Needs review to keep unresolved work visible, then
 00:05:55.217 --> 00:05:59.000
 close gaps with evidence your reviewers can stand behind.
 
-00:06:00.000 --> 00:06:04.265
-Open Agents to inspect the recommended specialists and drill into
+00:06:00.000 --> 00:06:04.143
+Open Agents to see the specialist assignments relevant to the
 
-00:06:04.265 --> 00:06:08.529
-their assignments. Refine the brief around Nordway’s delivery
-approach and
+00:06:04.143 --> 00:06:08.286
+pursuit. For Nordway, these include transport technical, project
+management, executive
 
-00:06:08.529 --> 00:06:12.794
-select the internal experts whose qualifications support the
-response. Send
+00:06:08.286 --> 00:06:12.429
+summary and legal work. Drill into an assignment to refine
 
-00:06:12.794 --> 00:06:17.059
-the updated package to your connected conversation and ask the
+00:06:12.429 --> 00:06:16.571
+its brief and inspect the inputs. Ask your connected assistant
 
-00:06:17.059 --> 00:06:21.324
-assistant to coordinate the specialist contributions. Get the
-results back
+00:06:16.571 --> 00:06:20.714
+to develop those contributions using the tender and company
+evidence.
 
-00:06:21.324 --> 00:06:25.588
-in BidStream, review each contribution and apply the work you
+00:06:20.714 --> 00:06:24.857
+It saves each specialist’s work into the corresponding workspace,
+so
 
-00:06:25.588 --> 00:06:29.000
-want to carry forward into the combined response.
+00:06:24.857 --> 00:06:29.000
+your team can review individual contributions before shaping the
+response.
 
-00:06:30.000 --> 00:06:34.265
-When your evidence and specialist contributions are ready, send
-the
+00:06:30.000 --> 00:06:34.203
+Choose Automate EOI, or prepare the direct tender response, to
 
-00:06:34.265 --> 00:06:38.529
-updated pursuit package to the connected conversation. Ask for an
+00:06:34.203 --> 00:06:38.406
+share the current task with your assistant. In the connected
 
-00:06:38.529 --> 00:06:42.794
-expression of interest or a direct tender response, following the
+00:06:38.406 --> 00:06:42.609
+company conversation, ask it to develop the response from the
 
-00:06:42.794 --> 00:06:47.059
-buyer’s structure and your company evidence. Return to BidStream,
-get
+00:06:42.609 --> 00:06:46.812
+buyer’s requirements, your evidence and the specialist
+contributions. The completed
 
-00:06:47.059 --> 00:06:51.324
-the analysis and drafts, then review and apply the response.
+00:06:46.812 --> 00:06:51.014
+text appears directly in the response editor. Refine the
+language,
 
-00:06:51.324 --> 00:06:55.588
-Open Draft to refine the wording, complete targeted inputs and
+00:06:51.014 --> 00:06:55.217
+strengthen the evidence and download the draft. BidStream
+preserves newer
 
-00:06:55.588 --> 00:06:59.000
-sharpen Nordway’s differentiators before downloading for your
-reviewers.
+00:06:55.217 --> 00:06:59.000
+edits when returned work would conflict with your changes.
 
 00:07:00.000 --> 00:07:04.265
 Open Submission sheet to turn the buyer's requested structure
@@ -362,52 +363,55 @@ commercial material separate while developing the technical
 narrative.
 
 00:07:30.000 --> 00:07:34.203
-Send the latest pursuit package with your saved draft to
+Share the latest pursuit package with your saved draft, then
 
 00:07:34.203 --> 00:07:38.406
-the connected conversation. Ask the assistant to evaluate the
-response
+ask your connected assistant to assess it against the buyer’s
 
 00:07:38.406 --> 00:07:42.609
-against the buyer’s criteria, explaining each rating and
-identifying evidence
+criteria. Request clear reasoning for each rating and specific
+actions
 
 00:07:42.609 --> 00:07:46.812
-gaps. Get the assessment back in BidStream, review and apply
+to close evidence gaps. The structured assessment populates
+BidStream’s evaluation
 
 00:07:46.812 --> 00:07:51.014
-it, then open Evaluate to inspect the findings. Challenge the
+workspace automatically. Open Evaluate to inspect the findings,
+challenge the
 
 00:07:51.014 --> 00:07:55.217
-reasoning, refine reviewer ratings and return to Draft to
-strengthen
+reasoning and refine the ratings. Return to the response editor
 
 00:07:55.217 --> 00:07:59.000
-the sections that need attention before the final review.
+to strengthen the sections that need attention before submission.
 
-00:08:00.000 --> 00:08:04.203
-In the connected conversation, ask your assistant to research
-comparable
+00:08:00.000 --> 00:08:04.143
+Ask your connected assistant to research comparable awards using
+the
 
-00:08:04.203 --> 00:08:08.406
-awards using the pursuit’s scope, buyer and location. Request
-direct
+00:08:04.143 --> 00:08:08.286
+pursuit’s scope, buyer and location. Request direct source links
+and
 
-00:08:08.406 --> 00:08:12.609
-source links and an explanation of why each comparison matters.
+00:08:08.286 --> 00:08:12.429
+an explanation of why each comparison matters. The findings
+populate
 
-00:08:12.609 --> 00:08:16.812
-Bring the findings back through Get analysis and drafts, then
+00:08:12.429 --> 00:08:16.571
+the competition intelligence section, keeping the research
+alongside your response.
 
-00:08:16.812 --> 00:08:21.014
-review the research and its citations before applying it. Add
+00:08:16.571 --> 00:08:20.714
+Review the citations and add your own assessment of positioning,
 
-00:08:21.014 --> 00:08:25.217
-your assessment of positioning, partnerships and differentiation,
-giving Nordway a
+00:08:20.714 --> 00:08:24.857
+partnerships and differentiation. Nordway can combine sourced
+market context with
 
-00:08:25.217 --> 00:08:29.000
-documented basis for an informed decision about this opportunity.
+00:08:24.857 --> 00:08:29.000
+its own experience when deciding how to approach this
+opportunity.
 
 00:08:30.000 --> 00:08:34.203
 Return to Submission sheet for the final attachment check.
@@ -434,28 +438,33 @@ to the submission date. Add the receipt or reference to
 00:08:55.217 --> 00:08:59.000
 keep a record of what was submitted and when.
 
-00:09:00.000 --> 00:09:04.265
-Review the expected response date extracted from the buyer's
+00:09:00.000 --> 00:09:04.085
+Connect the company’s Google Workspace mailbox directly to
+BidStream, with
+
+00:09:04.085 --> 00:09:08.169
+email sending as a separate permission. In the pursuit, check
+
+00:09:08.169 --> 00:09:12.254
+Gmail for buyer replies and keep relevant correspondence with the
+
+00:09:12.254 --> 00:09:16.338
+opportunity. The expected response date comes from the tender
 timetable
 
-00:09:04.265 --> 00:09:08.529
-when supplied, and check its source. If an unanswered response
+00:09:16.338 --> 00:09:20.423
+when supplied, and a seven-day delay highlights follow-up. Review
+the
 
-00:09:08.529 --> 00:09:12.794
-becomes seven days overdue, the workspace highlights the follow-
-up. Review
+00:09:20.423 --> 00:09:24.507
+addressed message, then send through the connected mailbox or
+copy
 
-00:09:12.794 --> 00:09:17.059
-the buyer address, subject and message, then copy the prepared
+00:09:24.507 --> 00:09:28.592
+it into email. Record the outcome to guide the next
 
-00:09:17.059 --> 00:09:21.324
-email or open your email application. When a reply arrives,
-
-00:09:21.324 --> 00:09:25.588
-save the outcome and details. A positive EOI response moves
-
-00:09:25.588 --> 00:09:29.000
-the pursuit towards preparing the next tender stage.
+00:09:28.592 --> 00:09:29.000
+step.
 
 00:09:30.000 --> 00:09:34.203
 Nordway now has a path from relevant opportunity to carefully
