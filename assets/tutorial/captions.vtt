@@ -1,0 +1,538 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.203
+Welcome to BidStream, your workspace for turning public tender
+information
+
+00:00:04.203 --> 00:00:08.406
+into a clear next action. Over the next ten minutes,
+
+00:00:08.406 --> 00:00:12.609
+we will explore the complete demo, from choosing a company
+
+00:00:12.609 --> 00:00:16.812
+and discovering opportunities, to preparing an expression of
+interest and
+
+00:00:16.812 --> 00:00:21.014
+reviewing a tender. Follow the highlighted cursor as we go.
+
+00:00:21.014 --> 00:00:25.217
+The aim is simple: spend less time organising information, and
+
+00:00:25.217 --> 00:00:29.000
+more time deciding which opportunities deserve your team's
+attention.
+
+00:00:30.000 --> 00:00:34.028
+Start with the working company selector. Sweroad represents the
+transport
+
+00:00:34.028 --> 00:00:38.056
+consultancy vertical, while ERP Software Technologies represents
+software and IT
+
+00:00:38.056 --> 00:00:42.083
+services. Changing the company changes the matching context and
+the
+
+00:00:42.083 --> 00:00:46.111
+shortlist you are working with. Check this selector before saving
+
+00:00:46.111 --> 00:00:50.139
+an opportunity. You can explore both verticals in the same
+
+00:00:50.139 --> 00:00:54.167
+workspace, while keeping each company's pursuits separate. These
+are demonstration
+
+00:00:54.167 --> 00:00:58.194
+profiles, so verify their details before using them for a
+
+00:00:58.194 --> 00:00:59.000
+real submission.
+
+00:01:00.000 --> 00:01:03.973
+Open Companies to review the information behind your matches.
+Describe
+
+00:01:03.973 --> 00:01:07.945
+what the business actually delivers, the countries it serves, and
+
+00:01:07.945 --> 00:01:11.918
+the capabilities that make it relevant. Add the company website
+
+00:01:11.918 --> 00:01:15.890
+and contact email, then complete the supporting company
+information. Specific
+
+00:01:15.890 --> 00:01:19.863
+descriptions work better than broad claims. For example, an ERP
+
+00:01:19.863 --> 00:01:23.836
+implementation capability is more useful than simply saying
+technology. Save
+
+00:01:23.836 --> 00:01:27.808
+your changes, then return to discovery to review opportunities
+against
+
+00:01:27.808 --> 00:01:29.000
+that updated context.
+
+00:01:30.000 --> 00:01:33.973
+Company information also supports document preparation. Record
+legal registrations, reference
+
+00:01:33.973 --> 00:01:37.945
+projects and useful company notes, using facts your team can
+
+00:01:37.945 --> 00:01:41.918
+substantiate. A contact email identifies the company, but
+entering it
+
+00:01:41.918 --> 00:01:45.890
+does not connect a mailbox. In this demo, profiles and
+
+00:01:45.890 --> 00:01:49.863
+pursuit records stay in this browser. Use the workspace backup
+
+00:01:49.863 --> 00:01:53.836
+export to keep a copy. Profile import adds company profiles;
+
+00:01:53.836 --> 00:01:57.808
+it is not a complete restore of every exported pursuit
+
+00:01:57.808 --> 00:01:59.000
+and team record.
+
+00:02:00.000 --> 00:02:03.816
+Now open Discover. The demo brings together bounded public feeds
+
+00:02:03.816 --> 00:02:07.632
+from the World Bank and TED, and ranks notices against
+
+00:02:07.632 --> 00:02:11.447
+your selected company. Use the search field to focus on
+
+00:02:11.447 --> 00:02:15.263
+a service, technology or project theme. Market and source filters
+
+00:02:15.263 --> 00:02:19.079
+help narrow the list further. A minimum fit filter can
+
+00:02:19.079 --> 00:02:22.895
+reduce noise. Refresh sources when you need an updated view,
+
+00:02:22.895 --> 00:02:26.711
+remembering that this is a limited discovery feed, rather than
+
+00:02:26.711 --> 00:02:29.000
+every procurement portal on the internet.
+
+00:02:30.000 --> 00:02:33.766
+Open an opportunity to inspect the scope and the reasons
+
+00:02:33.766 --> 00:02:37.532
+behind its score. Matching combines capability keywords,
+geography and scope
+
+00:02:37.532 --> 00:02:41.299
+signals. It is a transparent relevance heuristic, not an
+artificial
+
+00:02:41.299 --> 00:02:45.065
+intelligence assessment of eligibility or a prediction that you
+will
+
+00:02:45.065 --> 00:02:48.831
+win. Read the buyer's original notice before committing time.
+Check
+
+00:02:48.831 --> 00:02:52.597
+mandatory qualifications, submission method, document
+availability and the actual closing
+
+00:02:52.597 --> 00:02:56.364
+time. A high fit score is a reason to investigate,
+
+00:02:56.364 --> 00:02:59.000
+not a reason to skip due diligence.
+
+00:03:00.000 --> 00:03:03.867
+Use deadline information and sorting to choose what to inspect
+
+00:03:03.867 --> 00:03:07.733
+next. Best fit helps with relevance; closing soon helps with
+
+00:03:07.733 --> 00:03:11.600
+urgency; newest helps with fresh discovery. Treat missing dates
+as
+
+00:03:11.600 --> 00:03:15.467
+a task to verify, and check whether a closed notice
+
+00:03:15.467 --> 00:03:19.333
+has a published extension. If you find a suitable notice
+
+00:03:19.333 --> 00:03:23.200
+outside the connected feeds, add it manually with its source
+
+00:03:23.200 --> 00:03:27.067
+link and scope. Exporting the visible results to CSV supports
+
+00:03:27.067 --> 00:03:29.000
+an offline review with colleagues.
+
+00:03:30.000 --> 00:03:33.867
+When an opportunity deserves attention, click Shortlist. The
+saved notice
+
+00:03:33.867 --> 00:03:37.733
+moves into a separate section for the active company, so
+
+00:03:37.733 --> 00:03:41.600
+you can stop scanning and start preparing. Open Shortlist to
+
+00:03:41.600 --> 00:03:45.467
+review your selected pursuits and work through them individually.
+If
+
+00:03:45.467 --> 00:03:49.333
+you save the wrong item, removal includes an undo action.
+
+00:03:49.333 --> 00:03:53.200
+For this walkthrough, we use an explicitly labelled training
+opportunity.
+
+00:03:53.200 --> 00:03:57.067
+Its details illustrate the workflow and do not represent an
+
+00:03:57.067 --> 00:03:59.000
+invitation from a real buyer.
+
+00:04:00.000 --> 00:04:03.766
+Return to Dashboard for a practical view of the pipeline.
+
+00:04:03.766 --> 00:04:07.532
+The summary counts shortlisted opportunities, manually recorded
+sent expressions of
+
+00:04:07.532 --> 00:04:11.299
+interest, recorded responses and items needing attention. Below,
+the next
+
+00:04:11.299 --> 00:04:15.065
+action list uses deadline and stage information to guide your
+
+00:04:15.065 --> 00:04:18.831
+work. Filter for drafting or awaiting response when you need
+
+00:04:18.831 --> 00:04:22.597
+focus. These counts reflect your saved records, not a connected
+
+00:04:22.597 --> 00:04:26.364
+email inbox. Direct tender suggestions also appear here, so a
+
+00:04:26.364 --> 00:04:29.000
+suitable tender can enter your pipeline immediately.
+
+00:04:30.000 --> 00:04:33.867
+Open a pursuit to enter its workspace. The overview brings
+
+00:04:33.867 --> 00:04:37.733
+the opportunity, stage, notes and next steps together. Choose the
+
+00:04:37.733 --> 00:04:41.600
+route that matches the buyer's process: an expression of interest
+
+00:04:41.600 --> 00:04:45.467
+first, or a direct tender. Software procurement may start
+directly
+
+00:04:45.467 --> 00:04:49.333
+with a tender, so there is no need to force
+
+00:04:49.333 --> 00:04:53.200
+an EOI stage. Verify the procedure and deadline on the
+
+00:04:53.200 --> 00:04:57.067
+original notice. Keep decision notes here so the reason for
+
+00:04:57.067 --> 00:04:59.000
+pursuing the work remains visible.
+
+00:05:00.000 --> 00:05:03.919
+Next, open Requirements. Add the buyer's evaluation criteria,
+either individually
+
+00:05:03.919 --> 00:05:07.838
+or as a list, then refine each item. Record its
+
+00:05:07.838 --> 00:05:11.757
+weight, whether it is mandatory, and the evidence you can
+
+00:05:11.757 --> 00:05:15.676
+provide. Use the actual tender wording where possible. This
+creates
+
+00:05:15.676 --> 00:05:19.595
+a practical checklist for drafting and review. Weight totals
+matter:
+
+00:05:19.595 --> 00:05:23.514
+the evaluation expects one hundred percent. A mandatory criterion
+deserves
+
+00:05:23.514 --> 00:05:27.432
+special attention, because a strong average score cannot
+compensate for
+
+00:05:27.432 --> 00:05:29.000
+failing a required qualification.
+
+00:05:30.000 --> 00:05:33.816
+The Team area helps you maintain an internal directory of
+
+00:05:33.816 --> 00:05:37.632
+experts, with roles, skills, evidence and availability. Within a
+pursuit,
+
+00:05:37.632 --> 00:05:41.447
+select the people relevant to that assignment. Suggestions use
+skill
+
+00:05:41.447 --> 00:05:45.263
+keywords from the scope, so review them carefully and confirm
+
+00:05:45.263 --> 00:05:49.079
+that the proposed team is genuinely suitable and available.
+External
+
+00:05:49.079 --> 00:05:52.895
+recruitment and consultancy networks are not connected in this
+demo.
+
+00:05:52.895 --> 00:05:56.711
+Naukri is a possible future integration, not a live source
+
+00:05:56.711 --> 00:05:59.000
+of candidate profiles in this release.
+
+00:06:00.000 --> 00:06:03.919
+Open Draft and create the document for your chosen route.
+
+00:06:03.919 --> 00:06:07.838
+BidStream assembles an editable starting point from company
+information, the
+
+00:06:07.838 --> 00:06:11.757
+opportunity scope, requirements evidence and selected staff. This
+is template
+
+00:06:11.757 --> 00:06:15.676
+based generation, not a complete expert written proposal. Read
+every
+
+00:06:15.676 --> 00:06:19.595
+section and replace missing information with verified content.
+The benefit
+
+00:06:19.595 --> 00:06:23.514
+is a structured place to begin, with relevant inputs brought
+
+00:06:23.514 --> 00:06:27.432
+together, so your team can concentrate on the response rather
+
+00:06:27.432 --> 00:06:29.000
+than an empty page.
+
+00:06:30.000 --> 00:06:33.816
+Use the draft health checks to find placeholders, missing
+evidence
+
+00:06:33.816 --> 00:06:37.632
+and missing company references. Edit the document directly and
+make
+
+00:06:37.632 --> 00:06:41.447
+the response specific to the buyer's requirements. Download a
+text
+
+00:06:41.447 --> 00:06:45.263
+copy for further formatting or review. If you rebuild after
+
+00:06:45.263 --> 00:06:49.079
+changing your inputs, the workflow provides a download of the
+
+00:06:49.079 --> 00:06:52.895
+previous draft to help preserve your work. Always confirm the
+
+00:06:52.895 --> 00:06:56.711
+final submission format, page limits and required attachments in
+the
+
+00:06:56.711 --> 00:06:59.000
+original procurement documents before sending anything.
+
+00:07:00.000 --> 00:07:03.816
+After submitting through the buyer's required channel, open
+Submission and
+
+00:07:03.816 --> 00:07:07.632
+response. Record the document type, submission date and receipt
+or
+
+00:07:07.632 --> 00:07:11.447
+reference. Add the buyer contact and an expected response date
+
+00:07:11.447 --> 00:07:15.263
+when you have a reasonable basis for one. This creates
+
+00:07:15.263 --> 00:07:19.079
+a follow-up record and updates the dashboard. The distinction
+matters:
+
+00:07:19.079 --> 00:07:22.895
+saving a sent record does not send a message or
+
+00:07:22.895 --> 00:07:26.711
+upload a tender. The actual submission still takes place outside
+
+00:07:26.711 --> 00:07:29.000
+this demo through the authorised channel.
+
+00:07:30.000 --> 00:07:33.671
+When a buyer responds, record the date, response type and
+
+00:07:33.671 --> 00:07:37.342
+useful details in the same workspace. You can distinguish an
+
+00:07:37.342 --> 00:07:41.013
+acknowledgement, a clarification, a positive response or a
+negative outcome.
+
+00:07:41.013 --> 00:07:44.684
+A positive EOI response can lead into tender preparation, with
+
+00:07:44.684 --> 00:07:48.354
+a new invitation deadline to verify and record. The activity
+
+00:07:48.354 --> 00:07:52.025
+history preserves your manual updates. Automatic mailbox checking
+and daily
+
+00:07:52.025 --> 00:07:55.696
+response collection are not connected yet, so your team must
+
+00:07:55.696 --> 00:07:59.000
+enter these replies for the dashboard to reflect them.
+
+00:08:00.000 --> 00:08:03.766
+Before finalising a tender, open Evaluate. Review each criterion
+against
+
+00:08:03.766 --> 00:08:07.532
+its supporting evidence and enter a reviewer score from zero
+
+00:08:07.532 --> 00:08:11.299
+to five. The weighted result helps structure an internal review,
+
+00:08:11.299 --> 00:08:15.065
+while missing evidence and mandatory gaps remain visible. It is
+
+00:08:15.065 --> 00:08:18.831
+not an independent semantic assessment of your proposal. Treat it
+
+00:08:18.831 --> 00:08:22.597
+as a disciplined checklist: strengthen weak evidence, resolve
+mandatory gaps,
+
+00:08:22.597 --> 00:08:26.364
+and have a qualified colleague challenge the ratings before
+relying
+
+00:08:26.364 --> 00:08:29.000
+on the result for a submission decision.
+
+00:08:30.000 --> 00:08:33.718
+Historical competition can inform a discussion, but only when the
+
+00:08:33.718 --> 00:08:37.436
+underlying evidence is sound. The demo lets you record a
+
+00:08:37.436 --> 00:08:41.154
+source link, a sample count and notes about previous competition.
+
+00:08:41.154 --> 00:08:44.872
+It does not contain a historical tender dataset or calculate
+
+00:08:44.872 --> 00:08:48.590
+a reliable probability of winning. Keep facts separate from
+assumptions,
+
+00:08:48.590 --> 00:08:52.308
+and note when information is incomplete. The useful outcome is
+
+00:08:52.308 --> 00:08:56.026
+a better documented decision about whether to proceed, seek a
+
+00:08:56.026 --> 00:08:59.000
+partner, improve the proposal or decline the opportunity.
+
+00:09:00.000 --> 00:09:03.973
+Open Sources and Connections to understand coverage. World Bank
+and
+
+00:09:03.973 --> 00:09:07.945
+TED discovery are available; other listed portals may require
+manual
+
+00:09:07.945 --> 00:09:11.918
+access or future integration. Mailbox authentication, scheduled
+response checks, recruitment
+
+00:09:11.918 --> 00:09:15.890
+APIs and automatic EOI sending are not operational in this
+
+00:09:15.890 --> 00:09:19.863
+release. The interface makes those boundaries visible. The UX
+guide
+
+00:09:19.863 --> 00:09:23.836
+explains the design approach, and Product review gives a candid
+
+00:09:23.836 --> 00:09:27.808
+self-assessment. Neither replaces user testing, procurement
+expertise or validation of
+
+00:09:27.808 --> 00:09:29.000
+a production integration.
+
+00:09:30.000 --> 00:09:33.766
+You now have the complete BidStream workflow. Choose the right
+
+00:09:33.766 --> 00:09:37.532
+company, refine its evidence, discover relevant notices and
+shortlist the
+
+00:09:37.532 --> 00:09:41.299
+opportunities worth pursuing. Let the dashboard guide your next
+action,
+
+00:09:41.299 --> 00:09:45.065
+prepare the appropriate document, review it against the buyer's
+criteria,
+
+00:09:45.065 --> 00:09:48.831
+and track submissions and replies. Export your workspace backup
+regularly,
+
+00:09:48.831 --> 00:09:52.597
+because this demo stores work on your device. Start with
+
+00:09:52.597 --> 00:09:56.364
+one opportunity, keep the source documents close, and turn a
+
+00:09:56.364 --> 00:09:59.000
+promising match into a well prepared response.
