@@ -1,5 +1,29 @@
 # Bidstream
 
+## Product walkthrough
+
+The homepage includes a 10-minute, 20-chapter walkthrough at
+[`#walkthrough`](https://glimeriastudios.github.io/bidstream-demo/#walkthrough),
+with ElevenLabs Alice narration, animated cursor guidance, English captions,
+a downloadable MP4 and a text transcript. The player, captions, transcript and chapter data are hosted by this GitHub
+Pages repository. The MP4 and poster are served from the existing BidStream
+app at `/tutorial/`, so no additional browser file-access permission is needed.
+
+The **Open demo portal** button opens the working application at
+https://bidstream-tender-intelligence.adam489451.chatgpt.site/.
+The application backend remains on that host; GitHub Pages hosts the marketing
+site and tutorial, not the tender feed API.
+
+The tutorial shows the current MVP honestly: two public discovery feeds,
+browser-local records, template drafting and manually rated evaluation.
+Mailbox monitoring, recruitment integrations and automatic submission are
+inactive. The training opportunity and its submission/reply records are
+explicitly illustrative.
+
+Narration provenance and production details are in
+`assets/tutorial/production.json`. Caption phrase timings are estimated.
+`tutorial.js` implements accessible chapter seeking without autoplay on load.
+
 AI-powered tender intelligence — *know which contracts you can actually win.*
 
 Bidstream reads the whole public and private tender market and hands a company a short, ranked list of contracts matched to what it actually does, with the reasoning shown. This repository holds the brand system, go-to-market materials, marketing assets, and the landing page.
