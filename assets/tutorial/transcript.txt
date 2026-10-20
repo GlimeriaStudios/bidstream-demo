@@ -1,0 +1,59 @@
+00:00 — A clearer route to opportunity
+Welcome to BidStream, your workspace for turning public tender information into a clear next action. Over the next ten minutes, we will explore the complete demo, from choosing a company and discovering opportunities, to preparing an expression of interest and reviewing a tender. Follow the highlighted cursor as we go. The aim is simple: spend less time organising information, and more time deciding which opportunities deserve your team's attention.
+
+00:30 — Choose your company and vertical
+Start with the working company selector. Sweroad represents the transport consultancy vertical, while ERP Software Technologies represents software and IT services. Changing the company changes the matching context and the shortlist you are working with. Check this selector before saving an opportunity. You can explore both verticals in the same workspace, while keeping each company's pursuits separate. These are demonstration profiles, so verify their details before using them for a real submission.
+
+01:00 — Build a useful company profile
+Open Companies to review the information behind your matches. Describe what the business actually delivers, the countries it serves, and the capabilities that make it relevant. Add the company website and contact email, then complete the supporting company information. Specific descriptions work better than broad claims. For example, an ERP implementation capability is more useful than simply saying technology. Save your changes, then return to discovery to review opportunities against that updated context.
+
+01:30 — Evidence makes the profile stronger
+Company information also supports document preparation. Record legal registrations, reference projects and useful company notes, using facts your team can substantiate. A contact email identifies the company, but entering it does not connect a mailbox. In this demo, profiles and pursuit records stay in this browser. Use the workspace backup export to keep a copy. Profile import adds company profiles; it is not a complete restore of every exported pursuit and team record.
+
+02:00 — Discover relevant opportunities
+Now open Discover. The demo brings together bounded public feeds from the World Bank and TED, and ranks notices against your selected company. Use the search field to focus on a service, technology or project theme. Market and source filters help narrow the list further. A minimum fit filter can reduce noise. Refresh sources when you need an updated view, remembering that this is a limited discovery feed, rather than every procurement portal on the internet.
+
+02:30 — Understand the match before acting
+Open an opportunity to inspect the scope and the reasons behind its score. Matching combines capability keywords, geography and scope signals. It is a transparent relevance heuristic, not an artificial intelligence assessment of eligibility or a prediction that you will win. Read the buyer's original notice before committing time. Check mandatory qualifications, submission method, document availability and the actual closing time. A high fit score is a reason to investigate, not a reason to skip due diligence.
+
+03:00 — Deadlines, sorting and manual notices
+Use deadline information and sorting to choose what to inspect next. Best fit helps with relevance; closing soon helps with urgency; newest helps with fresh discovery. Treat missing dates as a task to verify, and check whether a closed notice has a published extension. If you find a suitable notice outside the connected feeds, add it manually with its source link and scope. Exporting the visible results to CSV supports an offline review with colleagues.
+
+03:30 — Build your shortlist in one click
+When an opportunity deserves attention, click Shortlist. The saved notice moves into a separate section for the active company, so you can stop scanning and start preparing. Open Shortlist to review your selected pursuits and work through them individually. If you save the wrong item, removal includes an undo action. For this walkthrough, we use an explicitly labelled training opportunity. Its details illustrate the workflow and do not represent an invitation from a real buyer.
+
+04:00 — Let the dashboard guide the day
+Return to Dashboard for a practical view of the pipeline. The summary counts shortlisted opportunities, manually recorded sent expressions of interest, recorded responses and items needing attention. Below, the next action list uses deadline and stage information to guide your work. Filter for drafting or awaiting response when you need focus. These counts reflect your saved records, not a connected email inbox. Direct tender suggestions also appear here, so a suitable tender can enter your pipeline immediately.
+
+04:30 — Choose EOI or direct tender
+Open a pursuit to enter its workspace. The overview brings the opportunity, stage, notes and next steps together. Choose the route that matches the buyer's process: an expression of interest first, or a direct tender. Software procurement may start directly with a tender, so there is no need to force an EOI stage. Verify the procedure and deadline on the original notice. Keep decision notes here so the reason for pursuing the work remains visible.
+
+05:00 — Turn requirements into a checklist
+Next, open Requirements. Add the buyer's evaluation criteria, either individually or as a list, then refine each item. Record its weight, whether it is mandatory, and the evidence you can provide. Use the actual tender wording where possible. This creates a practical checklist for drafting and review. Weight totals matter: the evaluation expects one hundred percent. A mandatory criterion deserves special attention, because a strong average score cannot compensate for failing a required qualification.
+
+05:30 — Assemble a credible delivery team
+The Team area helps you maintain an internal directory of experts, with roles, skills, evidence and availability. Within a pursuit, select the people relevant to that assignment. Suggestions use skill keywords from the scope, so review them carefully and confirm that the proposed team is genuinely suitable and available. External recruitment and consultancy networks are not connected in this demo. Naukri is a possible future integration, not a live source of candidate profiles in this release.
+
+06:00 — Create an editable EOI or tender
+Open Draft and create the document for your chosen route. BidStream assembles an editable starting point from company information, the opportunity scope, requirements evidence and selected staff. This is template based generation, not a complete expert written proposal. Read every section and replace missing information with verified content. The benefit is a structured place to begin, with relevant inputs brought together, so your team can concentrate on the response rather than an empty page.
+
+06:30 — Improve and export the draft
+Use the draft health checks to find placeholders, missing evidence and missing company references. Edit the document directly and make the response specific to the buyer's requirements. Download a text copy for further formatting or review. If you rebuild after changing your inputs, the workflow provides a download of the previous draft to help preserve your work. Always confirm the final submission format, page limits and required attachments in the original procurement documents before sending anything.
+
+07:00 — Record a submission and follow-up
+After submitting through the buyer's required channel, open Submission and response. Record the document type, submission date and receipt or reference. Add the buyer contact and an expected response date when you have a reasonable basis for one. This creates a follow-up record and updates the dashboard. The distinction matters: saving a sent record does not send a message or upload a tender. The actual submission still takes place outside this demo through the authorised channel.
+
+07:30 — Track replies and move forward
+When a buyer responds, record the date, response type and useful details in the same workspace. You can distinguish an acknowledgement, a clarification, a positive response or a negative outcome. A positive EOI response can lead into tender preparation, with a new invitation deadline to verify and record. The activity history preserves your manual updates. Automatic mailbox checking and daily response collection are not connected yet, so your team must enter these replies for the dashboard to reflect them.
+
+08:00 — Evaluate against the buyer's criteria
+Before finalising a tender, open Evaluate. Review each criterion against its supporting evidence and enter a reviewer score from zero to five. The weighted result helps structure an internal review, while missing evidence and mandatory gaps remain visible. It is not an independent semantic assessment of your proposal. Treat it as a disciplined checklist: strengthen weak evidence, resolve mandatory gaps, and have a qualified colleague challenge the ratings before relying on the result for a submission decision.
+
+08:30 — Use history with appropriate caution
+Historical competition can inform a discussion, but only when the underlying evidence is sound. The demo lets you record a source link, a sample count and notes about previous competition. It does not contain a historical tender dataset or calculate a reliable probability of winning. Keep facts separate from assumptions, and note when information is incomplete. The useful outcome is a better documented decision about whether to proceed, seek a partner, improve the proposal or decline the opportunity.
+
+09:00 — Know what is connected today
+Open Sources and Connections to understand coverage. World Bank and TED discovery are available; other listed portals may require manual access or future integration. Mailbox authentication, scheduled response checks, recruitment APIs and automatic EOI sending are not operational in this release. The interface makes those boundaries visible. The UX guide explains the design approach, and Product review gives a candid self-assessment. Neither replaces user testing, procurement expertise or validation of a production integration.
+
+09:30 — Your complete daily workflow
+You now have the complete BidStream workflow. Choose the right company, refine its evidence, discover relevant notices and shortlist the opportunities worth pursuing. Let the dashboard guide your next action, prepare the appropriate document, review it against the buyer's criteria, and track submissions and replies. Export your workspace backup regularly, because this demo stores work on your device. Start with one opportunity, keep the source documents close, and turn a promising match into a well prepared response.
