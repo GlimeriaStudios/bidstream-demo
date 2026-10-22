@@ -8,14 +8,16 @@ BidStream connects tender discovery with your company's capabilities. Inspect th
 
 Turn that shortlist into a tailored expression of interest. Review the requirements and evidence, then approve your email to the buyer.
 
-Bring the tender documents together. Extract the prerequisites, evaluation criteria, and response structure, so preparation follows what the buyer actually asks for.
+When the buyer responds, bring the tender documents into the pursuit. Keep the brief and conversation together.
 
-Coordinate technical, staffing, legal, and financial contributions with your connected assistant. Keep every section grounded in your company's evidence.
+AI scans the tender document, reading the text and identifying the required forms. Requirements, evaluation criteria, and response templates become structured information, linked back to the source.
 
-Organise the package in Google Drive. Keep the technical response and financial offer clear, structured, and ready for your team.
+Connect Google Drive. The tender structure becomes a clear folder structure, and the extracted forms move into place: source documents, technical response, financial offer, and declarations.
 
-Review the assessment against the buyer's criteria. Follow the reasoning, close evidence gaps, and turn improvement flags into focused action.
+Around that shared workspace, specialist AI agents bring in technical content, team experience, financial inputs, and legal checks. They populate the forms and draft documents, using your company's evidence.
 
-Your team makes the decisions. Confirm qualifications, commercial terms, and required signatures. Hand over an organised response for final approval.
+The package comes together: draft responses, an evaluation report, a criteria-based score, and sourced competitor analysis. Review the reasoning, check the evidence, and resolve the remaining gaps.
+
+Then BidStream asks you to review, sign, and send. Your authorised team confirms the documents and submission route, and makes the final decision.
 
 BidStream. Turn the experience you've earned into the opportunity you pursue next. Start the conversation.
