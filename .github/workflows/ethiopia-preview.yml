@@ -1,0 +1,23 @@
+name: Refresh Ethiopia EOI preview
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 4 * * *'
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node ethiopia/refresh.mjs
+      - name: Save public preview
+        run: |
+          git add ethiopia/preview.json
+          if ! git diff --cached --quiet; then
+            git -c user.name="BidStream feed" -c user.email="actions@users.noreply.github.com" commit -m "Refresh Ethiopia EOI preview"
+            git push
+          fi
