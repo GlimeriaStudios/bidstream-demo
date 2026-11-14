@@ -1,56 +1,129 @@
 {
-  "asOf": "2026-11-13",
+  "asOf": "2026-11-14",
   "preview": {
     "All industries": [
       {
-        "id": "OP00480263",
-        "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Oromia Region Job creation and Vocational Bureau",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
+        "id": "OP00481016",
+        "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
+        "buyer": "Afar Region RPCU",
+        "deadline": "2026-11-30",
+        "published": "2026-11-13",
         "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480263"
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481016"
       },
       {
-        "id": "OP00480265",
-        "title": "Recruitment of 1 Livelihood Specialist for Oromia UDHB UPSNJP Regional hub",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
+        "id": "OP00481445",
+        "title": "Procurement for the Consultancy services of FS & DD of Rural Access Road Lot I Key kokab -Kelt 30Km & Duku Tulgit- Haro 20Km Lot II Nada-Shallo 50Km & Shasha- Aduba 35Km & Lot III Turga River Medium span bridge 16m & Kibish River Large span bridge 70m",
+        "buyer": "South Western Ethiopia RPCU",
+        "deadline": "2026-12-01",
+        "published": "2026-11-13",
         "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480265"
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481445"
       },
       {
-        "id": "OP00480267",
-        "title": "Recruitment of 1 additional procurement Specialist for UDHB UPSNJP regional Hub",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
+        "id": "OP00481449",
+        "title": "Consultancy Service for Construction Supervision for Construction of Goma water supply & sanitation subproject from borehole Water",
+        "buyer": "South Western Ethiopia RPCU",
+        "deadline": "2026-12-03",
+        "published": "2026-11-13",
         "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480267"
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481449"
       },
       {
-        "id": "OP00480274",
-        "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Ambo city",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
+        "id": "OP00481406",
+        "title": "\"Consultancy service for Feasibility Study & Detail Designs for Medium Span Bridges and Gravel Access Road in Aware, Kubi, Hadagalo & Hamaro and Guredamole, Mubarak, El-Ogaden, Hararey, Dambal & Shilabo Projects Woredas \"",
+        "buyer": "Somali Regional Project Coordination Unit",
+        "deadline": "2026-12-04",
+        "published": "2026-11-13",
         "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480274"
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481406"
       },
       {
-        "id": "OP00480289",
-        "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Asella city",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
+        "id": "OP00481408",
+        "title": "Consultancy service for Feasibility Study & Detail Designs for Nine (9) Groundwater Investigation for Borehole Drilling of Harwo,Dambal(two sites),Hadagalo, Shilabo (two sites),Lagahida, Mayumuluko & Dunyar project woredas",
+        "buyer": "Somali Regional Project Coordination Unit",
+        "deadline": "2026-12-04",
+        "published": "2026-11-13",
         "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480289"
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481408"
       }
     ],
     "Digital & IT": [],
-    "Transport & infrastructure": [],
+    "Transport & infrastructure": [
+      {
+        "id": "OP00481016",
+        "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
+        "buyer": "Afar Region RPCU",
+        "deadline": "2026-11-30",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481016"
+      },
+      {
+        "id": "OP00481445",
+        "title": "Procurement for the Consultancy services of FS & DD of Rural Access Road Lot I Key kokab -Kelt 30Km & Duku Tulgit- Haro 20Km Lot II Nada-Shallo 50Km & Shasha- Aduba 35Km & Lot III Turga River Medium span bridge 16m & Kibish River Large span bridge 70m",
+        "buyer": "South Western Ethiopia RPCU",
+        "deadline": "2026-12-01",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481445"
+      },
+      {
+        "id": "OP00481449",
+        "title": "Consultancy Service for Construction Supervision for Construction of Goma water supply & sanitation subproject from borehole Water",
+        "buyer": "South Western Ethiopia RPCU",
+        "deadline": "2026-12-03",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481449"
+      },
+      {
+        "id": "OP00481406",
+        "title": "\"Consultancy service for Feasibility Study & Detail Designs for Medium Span Bridges and Gravel Access Road in Aware, Kubi, Hadagalo & Hamaro and Guredamole, Mubarak, El-Ogaden, Hararey, Dambal & Shilabo Projects Woredas \"",
+        "buyer": "Somali Regional Project Coordination Unit",
+        "deadline": "2026-12-04",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481406"
+      }
+    ],
     "Agriculture & environment": [
+      {
+        "id": "OP00481016",
+        "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
+        "buyer": "Afar Region RPCU",
+        "deadline": "2026-11-30",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481016"
+      },
+      {
+        "id": "OP00481449",
+        "title": "Consultancy Service for Construction Supervision for Construction of Goma water supply & sanitation subproject from borehole Water",
+        "buyer": "South Western Ethiopia RPCU",
+        "deadline": "2026-12-03",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481449"
+      },
+      {
+        "id": "OP00481408",
+        "title": "Consultancy service for Feasibility Study & Detail Designs for Nine (9) Groundwater Investigation for Borehole Drilling of Harwo,Dambal(two sites),Hadagalo, Shilabo (two sites),Lagahida, Mayumuluko & Dunyar project woredas",
+        "buyer": "Somali Regional Project Coordination Unit",
+        "deadline": "2026-12-04",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481408"
+      },
+      {
+        "id": "OP00481417",
+        "title": "Consultancy service for Feasibility Study & Detail Designs for Nine (9) Groundwater Investigation for Borehole Drilling of Bilcilbur,Dagahmadow,Goljano,Shabeley, Danot(two sites),Kohle, Mula & Daror project woredas",
+        "buyer": "Somali Regional Project Coordination Unit",
+        "deadline": "2026-12-04",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481417"
+      },
       {
         "id": "OP00480081",
         "title": "Feasibility Study & Detail Designs of 8 (Eight ) Water Supply & Sanitation schemes from existing Boreholes .",
@@ -59,27 +132,27 @@
         "published": "2026-11-07",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480081"
-      },
-      {
-        "id": "OP00479073",
-        "title": "Consultancy service for Detail design for Adigafelema irrigation scheme from groundwater sources [40 Ha]",
-        "buyer": "Diredawa RPCU",
-        "deadline": "2026-11-25",
-        "published": "2026-11-03",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479073"
-      },
-      {
-        "id": "OP00477222",
-        "title": "Review of PW Activities Respone to Climate Change",
-        "buyer": "Ministry of Urban Development and Infrastructure",
-        "deadline": "2026-11-13",
-        "published": "2026-10-26",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477222"
       }
     ],
     "Finance & procurement": [
+      {
+        "id": "OP00481016",
+        "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
+        "buyer": "Afar Region RPCU",
+        "deadline": "2026-11-30",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481016"
+      },
+      {
+        "id": "OP00481445",
+        "title": "Procurement for the Consultancy services of FS & DD of Rural Access Road Lot I Key kokab -Kelt 30Km & Duku Tulgit- Haro 20Km Lot II Nada-Shallo 50Km & Shasha- Aduba 35Km & Lot III Turga River Medium span bridge 16m & Kibish River Large span bridge 70m",
+        "buyer": "South Western Ethiopia RPCU",
+        "deadline": "2026-12-01",
+        "published": "2026-11-13",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481445"
+      },
       {
         "id": "OP00480267",
         "title": "Recruitment of 1 additional procurement Specialist for UDHB UPSNJP regional Hub",
@@ -97,15 +170,6 @@
         "published": "2026-11-03",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479129"
-      },
-      {
-        "id": "OP00477217",
-        "title": "Hire a firm for GRM Audit of UPSNJP in 15 project cities",
-        "buyer": "Ministry of Urban Development and Infrastructure",
-        "deadline": "2026-11-13",
-        "published": "2026-10-26",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477217"
       }
     ],
     "Skills & employment": [
