@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-16",
+  "asOf": "2026-11-17",
   "preview": {
     "All industries": [
       {
@@ -161,15 +161,6 @@
         "published": "2026-11-09",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480267"
-      },
-      {
-        "id": "OP00479129",
-        "title": "Personal Data Protection Compliance & Audit Advisor for ECA",
-        "buyer": "Prime Minster Office, National ID Program",
-        "deadline": "2026-11-16",
-        "published": "2026-11-03",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00479129"
       }
     ],
     "Skills & employment": [
