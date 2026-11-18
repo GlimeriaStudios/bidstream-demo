@@ -1,7 +1,25 @@
 {
-  "asOf": "2026-11-17",
+  "asOf": "2026-11-18",
   "preview": {
     "All industries": [
+      {
+        "id": "OP00482248",
+        "title": "Procurement of Consultancy Service for Feasibility Study & Detail Designs for Weito Pumped Small Scale Irrigation from surface water source in Kolango-Zuriya Woreda [100 Ha]",
+        "buyer": "Southern Ethiopia RPCU",
+        "deadline": "2026-12-02",
+        "published": "2026-11-17",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482248"
+      },
+      {
+        "id": "OP00482250",
+        "title": "Procurement of Consultancy Service for Feasibility Study & Detail Designs for 4 gravel access roads in Dassenech, Benatsemay, Kolango-Zuria, and Salamago Woredas; and 3 bridges in Kolango-Zuriya, Maale, and Salamago woredas.",
+        "buyer": "Southern Ethiopia RPCU",
+        "deadline": "2026-12-02",
+        "published": "2026-11-17",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482250"
+      },
       {
         "id": "OP00481016",
         "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
@@ -28,28 +46,19 @@
         "published": "2026-11-13",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481449"
-      },
-      {
-        "id": "OP00481406",
-        "title": "\"Consultancy service for Feasibility Study & Detail Designs for Medium Span Bridges and Gravel Access Road in Aware, Kubi, Hadagalo & Hamaro and Guredamole, Mubarak, El-Ogaden, Hararey, Dambal & Shilabo Projects Woredas \"",
-        "buyer": "Somali Regional Project Coordination Unit",
-        "deadline": "2026-12-04",
-        "published": "2026-11-13",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481406"
-      },
-      {
-        "id": "OP00481408",
-        "title": "Consultancy service for Feasibility Study & Detail Designs for Nine (9) Groundwater Investigation for Borehole Drilling of Harwo,Dambal(two sites),Hadagalo, Shilabo (two sites),Lagahida, Mayumuluko & Dunyar project woredas",
-        "buyer": "Somali Regional Project Coordination Unit",
-        "deadline": "2026-12-04",
-        "published": "2026-11-13",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481408"
       }
     ],
     "Digital & IT": [],
     "Transport & infrastructure": [
+      {
+        "id": "OP00482250",
+        "title": "Procurement of Consultancy Service for Feasibility Study & Detail Designs for 4 gravel access roads in Dassenech, Benatsemay, Kolango-Zuria, and Salamago Woredas; and 3 bridges in Kolango-Zuriya, Maale, and Salamago woredas.",
+        "buyer": "Southern Ethiopia RPCU",
+        "deadline": "2026-12-02",
+        "published": "2026-11-17",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482250"
+      },
       {
         "id": "OP00481016",
         "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
@@ -89,6 +98,15 @@
     ],
     "Agriculture & environment": [
       {
+        "id": "OP00482248",
+        "title": "Procurement of Consultancy Service for Feasibility Study & Detail Designs for Weito Pumped Small Scale Irrigation from surface water source in Kolango-Zuriya Woreda [100 Ha]",
+        "buyer": "Southern Ethiopia RPCU",
+        "deadline": "2026-12-02",
+        "published": "2026-11-17",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482248"
+      },
+      {
         "id": "OP00481016",
         "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
         "buyer": "Afar Region RPCU",
@@ -123,18 +141,27 @@
         "published": "2026-11-13",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481417"
-      },
-      {
-        "id": "OP00480081",
-        "title": "Feasibility Study & Detail Designs of 8 (Eight ) Water Supply & Sanitation schemes from existing Boreholes .",
-        "buyer": "Afar Region RPCU",
-        "deadline": "2026-11-20",
-        "published": "2026-11-07",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480081"
       }
     ],
     "Finance & procurement": [
+      {
+        "id": "OP00482248",
+        "title": "Procurement of Consultancy Service for Feasibility Study & Detail Designs for Weito Pumped Small Scale Irrigation from surface water source in Kolango-Zuriya Woreda [100 Ha]",
+        "buyer": "Southern Ethiopia RPCU",
+        "deadline": "2026-12-02",
+        "published": "2026-11-17",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482248"
+      },
+      {
+        "id": "OP00482250",
+        "title": "Procurement of Consultancy Service for Feasibility Study & Detail Designs for 4 gravel access roads in Dassenech, Benatsemay, Kolango-Zuria, and Salamago Woredas; and 3 bridges in Kolango-Zuriya, Maale, and Salamago woredas.",
+        "buyer": "Southern Ethiopia RPCU",
+        "deadline": "2026-12-02",
+        "published": "2026-11-17",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482250"
+      },
       {
         "id": "OP00481016",
         "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
