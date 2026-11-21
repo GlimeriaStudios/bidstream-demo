@@ -1,7 +1,16 @@
 {
-  "asOf": "2026-11-20",
+  "asOf": "2026-11-21",
   "preview": {
     "All industries": [
+      {
+        "id": "OP00482871",
+        "title": "Consultancy Services for Study and Detailed Design for Rial Malow gravel access road (15KM) in Lare Woreda, Gier - Pior gravel access road (27KM) in Makuey Woreda, Matar town - Pibor gravel access road (25KM) in Wantuwo & Jikow Woreda, Akula - Wankay grav",
+        "buyer": "Gambeala RPCU",
+        "deadline": "2026-12-04",
+        "published": "2026-11-20",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482871"
+      },
       {
         "id": "OP00482262",
         "title": "Feasibility Study & Detail Designs of 8( Eight) irrigation project in ( Yalo ,Bidu , Elidaar ,Telalak , Amibara,Awra ,Hadeleela and Gereni woredas)",
@@ -37,19 +46,19 @@
         "published": "2026-11-13",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481016"
-      },
-      {
-        "id": "OP00481445",
-        "title": "Procurement for the Consultancy services of FS & DD of Rural Access Road Lot I Key kokab -Kelt 30Km & Duku Tulgit- Haro 20Km Lot II Nada-Shallo 50Km & Shasha- Aduba 35Km & Lot III Turga River Medium span bridge 16m & Kibish River Large span bridge 70m",
-        "buyer": "South Western Ethiopia RPCU",
-        "deadline": "2026-12-01",
-        "published": "2026-11-13",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481445"
       }
     ],
     "Digital & IT": [],
     "Transport & infrastructure": [
+      {
+        "id": "OP00482871",
+        "title": "Consultancy Services for Study and Detailed Design for Rial Malow gravel access road (15KM) in Lare Woreda, Gier - Pior gravel access road (27KM) in Makuey Woreda, Matar town - Pibor gravel access road (25KM) in Wantuwo & Jikow Woreda, Akula - Wankay grav",
+        "buyer": "Gambeala RPCU",
+        "deadline": "2026-12-04",
+        "published": "2026-11-20",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482871"
+      },
       {
         "id": "OP00482250",
         "title": "Procurement of Consultancy Service for Feasibility Study & Detail Designs for 4 gravel access roads in Dassenech, Benatsemay, Kolango-Zuria, and Salamago Woredas; and 3 bridges in Kolango-Zuriya, Maale, and Salamago woredas.",
@@ -85,15 +94,6 @@
         "published": "2026-11-13",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481449"
-      },
-      {
-        "id": "OP00481406",
-        "title": "\"Consultancy service for Feasibility Study & Detail Designs for Medium Span Bridges and Gravel Access Road in Aware, Kubi, Hadagalo & Hamaro and Guredamole, Mubarak, El-Ogaden, Hararey, Dambal & Shilabo Projects Woredas \"",
-        "buyer": "Somali Regional Project Coordination Unit",
-        "deadline": "2026-12-04",
-        "published": "2026-11-13",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481406"
       }
     ],
     "Agriculture & environment": [
