@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-23",
+  "asOf": "2026-11-24",
   "preview": {
     "All industries": [
       {
@@ -179,63 +179,8 @@
         "published": "2026-11-13",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481445"
-      },
-      {
-        "id": "OP00480267",
-        "title": "Recruitment of 1 additional procurement Specialist for UDHB UPSNJP regional Hub",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480267"
       }
     ],
-    "Skills & employment": [
-      {
-        "id": "OP00480263",
-        "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Oromia Region Job creation and Vocational Bureau",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480263"
-      },
-      {
-        "id": "OP00480265",
-        "title": "Recruitment of 1 Livelihood Specialist for Oromia UDHB UPSNJP Regional hub",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480265"
-      },
-      {
-        "id": "OP00480274",
-        "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Ambo city",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480274"
-      },
-      {
-        "id": "OP00480289",
-        "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Asella city",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480289"
-      },
-      {
-        "id": "OP00480291",
-        "title": "Recruitment of 1 Youth Employment Apprenticeship Specialist for Bishoftu city",
-        "buyer": "Oromya Regional State Urban Development and Housing Bureau",
-        "deadline": "2026-11-23",
-        "published": "2026-11-09",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480291"
-      }
-    ]
+    "Skills & employment": []
   }
 }
