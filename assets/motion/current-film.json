@@ -1,0 +1,12 @@
+{
+  "master": "BidStream-restored.mp4",
+  "duration_seconds": 51.416667,
+  "fps": 60,
+  "sha256": "b67766edacd32d00fc31987698b96c804fe294e6135ce6e8bb780d360b4f1562",
+  "published_aliases": [
+    "bidstream-advert.mp4",
+    "bidstream-short.mp4"
+  ],
+  "reason": "Both existing website media endpoints serve the same corrected continuous-narration film. The short filename is retained for published Wix embeds.",
+  "updated": "2026-11-24"
+}
