@@ -1,7 +1,16 @@
 {
-  "asOf": "2026-11-25",
+  "asOf": "2026-11-26",
   "preview": {
     "All industries": [
+      {
+        "id": "OP00483618",
+        "title": "Consultancy service for Feasibility Study & Detail Designs for Small Dam for Water Supply and Sanitation Purpose for El-ogaden, Mubarak, Marsin, Filtu, Dollo-bay & Aware project Woredas",
+        "buyer": "Somali Regional Project Coordination Unit",
+        "deadline": "2026-12-16",
+        "published": "2026-11-25",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483618"
+      },
       {
         "id": "OP00482871",
         "title": "Consultancy Services for Study and Detailed Design for Rial Malow gravel access road (15KM) in Lare Woreda, Gier - Pior gravel access road (27KM) in Makuey Woreda, Matar town - Pibor gravel access road (25KM) in Wantuwo & Jikow Woreda, Akula - Wankay grav",
@@ -37,15 +46,6 @@
         "published": "2026-11-17",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00482250"
-      },
-      {
-        "id": "OP00481016",
-        "title": "Procurement of consultancy service construction supervision and contract administration of awadi geberoch diversion irrigation schemes in argoba woreda",
-        "buyer": "Afar Region RPCU",
-        "deadline": "2026-11-30",
-        "published": "2026-11-13",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481016"
       }
     ],
     "Digital & IT": [],
@@ -98,6 +98,15 @@
     ],
     "Agriculture & environment": [
       {
+        "id": "OP00483618",
+        "title": "Consultancy service for Feasibility Study & Detail Designs for Small Dam for Water Supply and Sanitation Purpose for El-ogaden, Mubarak, Marsin, Filtu, Dollo-bay & Aware project Woredas",
+        "buyer": "Somali Regional Project Coordination Unit",
+        "deadline": "2026-12-16",
+        "published": "2026-11-25",
+        "source": "World Bank",
+        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00483618"
+      },
+      {
         "id": "OP00482262",
         "title": "Feasibility Study & Detail Designs of 8( Eight) irrigation project in ( Yalo ,Bidu , Elidaar ,Telalak , Amibara,Awra ,Hadeleela and Gereni woredas)",
         "buyer": "Afar Region RPCU",
@@ -132,15 +141,6 @@
         "published": "2026-11-13",
         "source": "World Bank",
         "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481449"
-      },
-      {
-        "id": "OP00481408",
-        "title": "Consultancy service for Feasibility Study & Detail Designs for Nine (9) Groundwater Investigation for Borehole Drilling of Harwo,Dambal(two sites),Hadagalo, Shilabo (two sites),Lagahida, Mayumuluko & Dunyar project woredas",
-        "buyer": "Somali Regional Project Coordination Unit",
-        "deadline": "2026-12-04",
-        "published": "2026-11-13",
-        "source": "World Bank",
-        "url": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481408"
       }
     ],
     "Finance & procurement": [
