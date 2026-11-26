@@ -1,0 +1,33 @@
+name: Refresh East African procurement feeds
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '19 3 * * *'
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        include:
+          - script: refresh-epss.mjs
+            snapshot: ethiopia-epss.json
+          - script: refresh-kenya.mjs
+            snapshot: kenya-ppip.json
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node regional-sources/${{ matrix.script }}
+      - name: Publish verified records
+        run: |
+          git add regional-sources/${{ matrix.snapshot }}
+          git -c user.name="BidStream feed" -c user.email="actions@users.noreply.github.com" commit -m "Refresh ${{ matrix.snapshot }}"
+          git pull --rebase
+          git push

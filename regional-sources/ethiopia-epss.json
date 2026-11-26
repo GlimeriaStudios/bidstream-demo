@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-11-26T09:06:29.414Z",
+  "notices": [
+    {
+      "id": "et-epss-15",
+      "title": "Procurement of Pharmaceuticals for EPHI",
+      "country": "Ethiopia",
+      "buyer": "Ethiopian Pharmaceutical Supply Service",
+      "source": "Ethiopia EPSS",
+      "url": "https://www.epss.gov.et/epss/tenders/15",
+      "published": "",
+      "deadline": "2026-12-23",
+      "type": "ICB",
+      "description": "Pharmaceuticals"
+    },
+    {
+      "id": "et-epss-14",
+      "title": "Procurement of Vital Sign Monitoring, Oxygen Delivery, Diagnostic and Hospital Equipment’s.",
+      "country": "Ethiopia",
+      "buyer": "Ethiopian Pharmaceutical Supply Service",
+      "source": "Ethiopia EPSS",
+      "url": "https://www.epss.gov.et/epss/tenders/14",
+      "published": "",
+      "deadline": "2026-12-10",
+      "type": "ICB",
+      "description": "Medical Equipment"
+    }
+  ]
+}
