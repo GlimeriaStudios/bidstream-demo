@@ -1,6 +1,123 @@
 {
-  "checkedAt": "2026-11-26T10:33:44.578489+00:00",
+  "checkedAt": "2026-11-27T11:25:26.716400+00:00",
   "notices": [
+    {
+      "id": "malawi-ppda-f83b0cb1d68e3caa94e0",
+      "title": "Minor civil works-concealment of surface-mounted electrical conducts",
+      "country": "Malawi",
+      "buyer": "National Cancer Centre",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/RFQ%2052%20REPAIR%20AND%20REINSTATEMENT%20OF%20FLOOR%20AND%20WALL%20TILES.pdf",
+      "published": "2026-11-27",
+      "deadline": "2026-12-04",
+      "type": "Tender notice",
+      "description": "31/IPDC/NCC/W/26-27/052",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-c0e2e24718060eb50758",
+      "title": "Consultancy Services for the establishment of Post Bank",
+      "country": "Malawi",
+      "buyer": "Malawi Posts Corporation",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/Advert%20for%20RFP%20fot%20Post%20Bank%20consultancy.pdf",
+      "published": "2026-11-26",
+      "deadline": "2027-01-04",
+      "type": "Tender notice",
+      "description": "MPC/POST/BANK/2026/11",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-9d68b6bfe07f8dfa16de",
+      "title": "Expressions of Interest (EOI) for Consultancy Services for Enterprise Cyber Security Monitoring and Threat Detection Solution",
+      "country": "Malawi",
+      "buyer": "Accountant General Department",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/Request-EOI-cyber%20security%20monitoring%20and%20threat%20detection%20-shortlisting.pdf",
+      "published": "2026-11-26",
+      "deadline": "2026-12-03",
+      "type": "Tender notice",
+      "description": "AGD/ICT-ECSMT/26-27/04",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-08db0635b7c31627a203",
+      "title": "Supply and delivery of assorted Medical Equipment",
+      "country": "Malawi",
+      "buyer": "Mzuzu Central Hospital",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/RFQ-%20MEDICAL%20EQUIPMENT%20a%20doc.pdf",
+      "published": "2026-11-26",
+      "deadline": "2026-12-03",
+      "type": "Tender notice",
+      "description": "031/MzCH/2026-27/092",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-0809207ed848e0e4ad06",
+      "title": "PROCUREMENT OF MOTORCYCLES UNDER RCDF",
+      "country": "Malawi",
+      "buyer": "Phalombe District Council",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/ADVERT%20OF%20PROCUREMENT%20OF%20MOTORCYCLES.pdf",
+      "published": "2026-11-26",
+      "deadline": "2026-12-04",
+      "type": "Tender notice",
+      "description": "PEDC/Planning/RCDF/G/2026-27/22",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-ff477287770c5c6c1e41",
+      "title": "SUPPLY AND DELIVERY OF OFFICE EQUIPMENTS 93",
+      "country": "Malawi",
+      "buyer": "Mzuzu Central Hospital",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/Request%20for%20Quotations%20-%20OFFICE%20EQUIPMENT%2093.pdf",
+      "published": "2026-11-26",
+      "deadline": "2026-12-03",
+      "type": "Tender notice",
+      "description": "031/MZCH/2026-27/93",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-cc2506d4fc35e8ee5e62",
+      "title": "RE-AD. SUPPLY AND DELIVERY OF UROLOGY ENDOSCOPIC EQUIPMENT",
+      "country": "Malawi",
+      "buyer": "Mzuzu Central Hospital",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/Request%20For%20Quotations%20-%20Urology%20Endoscopic%20Equipment%2094.pdf",
+      "published": "2026-11-26",
+      "deadline": "2026-12-03",
+      "type": "Tender notice",
+      "description": "031/MZCH/2026-27/94",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-334f6348947066363294",
+      "title": "Expressions of Interest (EOI) for Consultancy Services for Provision of Training and Dissemination of Public Asset Management Guidelines, Low- Valued Asset Desk Valuation Guidelines and IPSAS Standards for MDAs in Malawi",
+      "country": "Malawi",
+      "buyer": "Accountant General Department",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/Request-EOI-Training%20and%20Dissemination%20of%20Public%20Asset%20Management%20Guidelines.pdf",
+      "published": "2026-11-26",
+      "deadline": "2026-12-03",
+      "type": "Tender notice",
+      "description": "AGD/TDPAMG/26-27/05",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-0ea3e8ebe44366b18795",
+      "title": "Expressions of Interest (EOI) for Consultancy Services for Electronically Tag Public Assets, develop an Android Mobile Asset Verification Application and Integrate the Asset Tagging System with SAP -IFMIS for proper Asset Tracking and Reporting.",
+      "country": "Malawi",
+      "buyer": "Administrators General Department",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/Request-EOI-%20services%20for%20electronically%20public%20asset%20tagging,%20development.pdf",
+      "published": "2026-11-26",
+      "deadline": "2026-12-03",
+      "type": "Tender notice",
+      "description": "AGD/ETAG/26-27/06",
+      "language": ""
+    },
     {
       "id": "malawi-ppda-2f99c0b0ac5a98e498ea",
       "title": "Fumigation for third quarter",
@@ -77,6 +194,19 @@
       "deadline": "2026-12-10",
       "type": "Tender notice",
       "description": "ESCOM-FRAMEWORK& 1OFF2026-27",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-20024993f95bc80c161d",
+      "title": "RE-ADVERTISEMENT, CDF PROJECTS, PERIMETER FENCE AT ST AUGUSTINE 2 PRIMARY SCHOOL LOT 5, AND STREETLIGHTS WITHIN MUNICIPAL BOUNDARIES LOT 8",
+      "country": "Malawi",
+      "buyer": "Mangochi Town Council",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/ADVERT%202026-2027%20CDF%20NOVEMBER%20PERIMETER%20FENCE%20AND%20STREETLIGHTS.pdf",
+      "published": "2026-11-25",
+      "deadline": "2026-12-02",
+      "type": "Tender notice",
+      "description": "MHMC/CDF/W/2026-2027/LOT5 & 8",
       "language": ""
     },
     {
@@ -158,45 +288,6 @@
       "language": ""
     },
     {
-      "id": "malawi-ppda-fb470be1ecb0c48527fe",
-      "title": "Supply and Delivery of Photocopying Machine",
-      "country": "Malawi",
-      "buyer": "University of Malawi",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/Photocopting%20Machine%20.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "G21-11-26",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-0327f364f8763fcacace",
-      "title": "REQUEST FOR QUOTATIONS : LAPTOP",
-      "country": "Malawi",
-      "buyer": "Malawi Prison Service",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/RFQ%20LAPTOP%20COOM%20RESEARCH.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "MPS/SC/ORT/RFQ/26/27/115",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-472d7adeed3ee70fc597",
-      "title": "Printing of Books",
-      "country": "Malawi",
-      "buyer": "University of Malawi",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/Printing%20of%20Books.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "G22-11-26",
-      "language": ""
-    },
-    {
       "id": "malawi-ppda-f6af00c537c74c87f1a0",
       "title": "SUPPLY AND DELIVERY OF MOTOR BIKES",
       "country": "Malawi",
@@ -207,71 +298,6 @@
       "deadline": "2026-11-30",
       "type": "Tender notice",
       "description": "SA/IPDC/WORKS/RCDF/2026/27/200",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-b480a2b0195038268613",
-      "title": "Provision of embroidery services for Blantyre city councils police uniforms and berets",
-      "country": "Malawi",
-      "buyer": "Blantyre City Council",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/ADVERT%20FOR%20PROVISION%20OF%20EMBROIDERY%20SERVICES%20FOR%20BLANTYRE%20CITY%20COUNCIL’S%20POLICE%20UNIFORMS%20AND%20BERETS%20-%20NOV%202026.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "Bcc/services/02/11/03",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-3fccdfff064d1e9de1d6",
-      "title": "Tonner for cdf women’s trainings",
-      "country": "Malawi",
-      "buyer": "Blantyre City Council",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/ADVERT%20FOR%20SUPPLY%20AND%20DELIVERY%20OF%20TONNER%20FOR%20TRAINING%20AND%20SUPERVISION%20FOR%20WOMEN%20EMPOWERMENT%20CDF%20LOANS%20-%20NOV%202026.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "Bcc/Goods/01/11/14",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-e7be480482a8830e606f",
-      "title": "Procurement of Medical Drugs for month of November, 2026.",
-      "country": "Malawi",
-      "buyer": "Zomba Central Hospital",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/RFQ%20FOR%20PROCUREMENT%20OF%20DRUGS%20FOR%20THE%20MONTH%20OF%20%20NOVEMBER%20,23%20NOVEMBER,%202026.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "ZCH/RFQ/DRUGS/11N/26/001",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-0a3e9b00e645917c5e51",
-      "title": "Procurement of Surgical items for month of November 2026",
-      "country": "Malawi",
-      "buyer": "Zomba Central Hospital",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/1.RFQ%20FOR%20PROCUREMENT%20OF%20SURGICAL%20FOR%20THE%20MONTH%20OF%20%20NOVEMBER,2026-23%20NOVEMBER,2026.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "ZCH/RFQ/SURGICAL/11N/26/001",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-06415a2dd12c428be140",
-      "title": "RFQ-EXECTIVE OFFICE CHAIRS",
-      "country": "Malawi",
-      "buyer": "Malawi Prison Service",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/EXECTIVE%20OFFICE%20CHAIR.pdf",
-      "published": "2026-11-23",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "RFQ-PRIS-FM-2026-2027/44",
       "language": ""
     },
     {
@@ -327,19 +353,6 @@
       "language": ""
     },
     {
-      "id": "malawi-ppda-e348622680a6b9396949",
-      "title": "SUUPLY ,DELIVERY AND INSTALLATION OF MODERN PIGEONHOLES",
-      "country": "Malawi",
-      "buyer": "Parliament",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/RFQ-%20Installation%20of%20Morden%20pigeonholes%20at%20Parlaiment%20-%20new.pdf",
-      "published": "2026-11-20",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "POM/RFQ/PDU/S/PIGEONHOLES/2026-27/012",
-      "language": ""
-    },
-    {
       "id": "malawi-ppda-65b2c5594dd525abfebd",
       "title": "Supply and delivery of Motor Vehicle - Station Wagon 7 Seater",
       "country": "Malawi",
@@ -353,58 +366,6 @@
       "language": ""
     },
     {
-      "id": "malawi-ppda-06b4c635d282f14cdee5",
-      "title": "SUPPLY AND DELIVERY OF UNIFORM FOR USHERS.",
-      "country": "Malawi",
-      "buyer": "Parliament",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/RFQ-%20Supply%20and%20delivery%20of%20Uniform%20for%20USER.pdf",
-      "published": "2026-11-20",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "POM/RFQ/PDU/3/UNIFORM/2026-27/052",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-74ea8ddf4dda9e1eff20",
-      "title": "SUPPLY AND DELIVERY OF UNIFORM FOR DRIVERS.",
-      "country": "Malawi",
-      "buyer": "Parliament",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/RFQ-%20Supply%20and%20delivery%20of%20Uniform%20for%20DRIVERS%20(2).pdf",
-      "published": "2026-11-20",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "POM/RFQ/PDU/3/UNIFORM/2026-27/053",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-57a7c85bc6d2ada65c3a",
-      "title": "SUPPLY AND DELIVERY OF PROTECTIVE WEAR?",
-      "country": "Malawi",
-      "buyer": "Parliament",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/RFQ-Supply%20and%20delivery%20of%20PROTECTIVE%20WEAR%20AND%20LOCKS.pdf",
-      "published": "2026-11-20",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "POM/RFQ/PDU/3/PROTECTIVE WEAR",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-242f8bc0a353292803a1",
-      "title": "Servicing of Air conditioners",
-      "country": "Malawi",
-      "buyer": "Malawi University of Science and Technology",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/Draft%20RFQ%20%20servicing%20ACS%20%202708.pdf",
-      "published": "2026-11-20",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "MUST/SC/2708/2025",
-      "language": ""
-    },
-    {
       "id": "malawi-ppda-f42d4847c8c2174a3edf",
       "title": "RENOVATION AND UPGRADING OF VOLUNTARY MEDICAL MALE CIRCUMCISION ROOMS TO MINOR THEATRE",
       "country": "Malawi",
@@ -415,6 +376,19 @@
       "deadline": "2026-12-11",
       "type": "Tender notice",
       "description": "MOH/NCB/W/GF/TBHIV/2026/002",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-1d992651ec8fc51aec0f",
+      "title": "SUPPLY AND DELIVERY OF SOLID WASTE COLLECTION VEHICLE",
+      "country": "Malawi",
+      "buyer": "Mangochi Town Council",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/ADVERT%202026-2027%20CDF%20MOTOR%20VEHICLE%20.pdf",
+      "published": "2026-11-19",
+      "deadline": "2026-12-09",
+      "type": "Tender notice",
+      "description": "MHMC/CDF/G/2026-2027/001",
       "language": ""
     },
     {
@@ -457,19 +431,6 @@
       "language": ""
     },
     {
-      "id": "malawi-ppda-b140e5a66c81548b2732",
-      "title": "PRODUCTION OF THE 10TH EITI REPORT",
-      "country": "Malawi",
-      "buyer": "Ministry of Finance",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/EoI-%20Production%20of%20the%2010th%20EITI%20report.pdf",
-      "published": "2026-11-11",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "270/NCB/MOFEA /25-26/03-CS-LCS",
-      "language": ""
-    },
-    {
       "id": "malawi-ppda-0047d3e4eabb02ec2295",
       "title": "Procurement of Motor Vehicles and 3- Ton Forklift",
       "country": "Malawi",
@@ -480,32 +441,6 @@
       "deadline": "2026-12-07",
       "type": "Tender notice",
       "description": "MTPW/IPDC/2026-27/MR94-MARINE",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-32e06c407c69fe06463a",
-      "title": "FRAMEWORK AND ONE-OFF CONTRACTS BY NATIONAL COMPETITIVE BIDDING",
-      "country": "Malawi",
-      "buyer": "Electricity Supply Corporation of Malawi (ESCOM)",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/Tender%20Advert%20Framework%20Agreements%20REVISED%202nd%20Nov.pdf",
-      "published": "2026-10-31",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "ESCOM-FRAMEWORK& 1OFF2026-27",
-      "language": ""
-    },
-    {
-      "id": "malawi-ppda-3b27e778e14f8c1a98d4",
-      "title": "CONSULTANCY SERVICES FOR PROJECT MANAGEMENT AND CONSTRUCTION SUPERVISION OF THE NCC OFFICE EXTENSION AND REHABILITATION PROJECT",
-      "country": "Malawi",
-      "buyer": "Electricity Supply Corporation of Malawi (ESCOM)",
-      "source": "Malawi PPDA",
-      "url": "https://ppda.mw/storage/documents/opentenders/Advert%20NCC%20Supervision%20rbt.pdf",
-      "published": "2026-10-31",
-      "deadline": "2026-11-27",
-      "type": "Tender notice",
-      "description": "ESC035/RFP/CS/FY2026-27",
       "language": ""
     }
   ]

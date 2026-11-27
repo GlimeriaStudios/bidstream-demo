@@ -1,6 +1,58 @@
 {
-  "checkedAt": "2026-11-26T10:33:49.193260+00:00",
+  "checkedAt": "2026-11-27T11:25:38.219990+00:00",
   "notices": [
+    {
+      "id": "burundi-armp-91a9fbeb1781ee35a16f",
+      "title": "AVIS D’APPEL D’OFFRES OUVERT NATIONAL No SADANO/RUMONGE/001/T/2026-2027 pour les travaux de construction des Réseaux d’Adduction d’Eau Potable NKUGWAKI-GANZA-DONZI",
+      "country": "Burundi",
+      "buyer": "",
+      "source": "Burundi ARMP",
+      "url": "https://armp.gov.bi/archives/12891",
+      "published": "2026-11-27",
+      "deadline": "",
+      "type": "Travaux",
+      "description": "",
+      "language": "fr"
+    },
+    {
+      "id": "burundi-armp-6c2787d12b8f39e4b801",
+      "title": "AVIS D’APPEL D’OFFRES OUVERT NATIONAL N° SADANO/RUMONGE/001/T/2026-2027 pour les travaux de construction des Réseaux d’Adduction d’Eau Potable NKUGWA-KIGANZA-DONZI",
+      "country": "Burundi",
+      "buyer": "",
+      "source": "Burundi ARMP",
+      "url": "https://armp.gov.bi/archives/12885",
+      "published": "2026-11-27",
+      "deadline": "",
+      "type": "Travaux",
+      "description": "",
+      "language": "fr"
+    },
+    {
+      "id": "burundi-armp-af8f3ca0977fd4f8c108",
+      "title": "AVIS D’APPEL D’OFFRES OUVERT NATIONAL Nᵒ SADANO/RUMONGE/001/T/2026-2027 pour les travaux de construction des Réseaux d’Adduction d’Eau Potable NKUGWA-KIGANZA-DONZI",
+      "country": "Burundi",
+      "buyer": "",
+      "source": "Burundi ARMP",
+      "url": "https://armp.gov.bi/archives/12878",
+      "published": "2026-11-27",
+      "deadline": "",
+      "type": "Travaux",
+      "description": "",
+      "language": "fr"
+    },
+    {
+      "id": "burundi-armp-92105ce0b55e2b52c512",
+      "title": "AVIS D’APPEL D’OFFRES NATIONAL OUVERT Nᵒ 002/AONO/UGADS/F/2026-2027 POUR LA FOURNITURE DE CARTES DE VACCINATION ROUGEOLE RUBEOLE",
+      "country": "Burundi",
+      "buyer": "",
+      "source": "Burundi ARMP",
+      "url": "https://armp.gov.bi/archives/12865",
+      "published": "2026-11-26",
+      "deadline": "",
+      "type": "Fournitures",
+      "description": "",
+      "language": "fr"
+    },
     {
       "id": "burundi-armp-c086d47afa459bf2dcec",
       "title": "AVIS D’APPEL D’OFFRES OUVERT NATIONAL Nᵒ DNCMP/328/F/2026-2027 POUR LA FOURNITURE DES PRODUITS PHARMACÉUTIQUES, PETIT MATÉRIEL ET CONSOMMABLES MÉDICAUX, LES RÉACTIFS ET CONSOMMABLES DE LABORATOIRE AINSI QUE LES ÉQUIPEMENTS MÉDICAUX DIVERS (Marché à commandes)",
@@ -1675,19 +1727,6 @@
       "published": "2026-10-14",
       "deadline": "",
       "type": "Services",
-      "description": "",
-      "language": "fr"
-    },
-    {
-      "id": "burundi-armp-e9259b87d692becf61b6",
-      "title": "AVIS D’APPEL D’OFFRES DU MARCHÉ Nº MINEAGRIE/DSA/001/F/2026-2027 POUR L’ACQUISITION DES PRODUITS VÉTÉRINAIRES POUR LE TRAITEMENT DES ANIMAUX DANS LE CADRE DE LA CONSTITUTION D’UN STOCK STRATÉGIQUE",
-      "country": "Burundi",
-      "buyer": "",
-      "source": "Burundi ARMP",
-      "url": "https://armp.gov.bi/archives/12243",
-      "published": "2026-10-12",
-      "deadline": "",
-      "type": "Fournitures",
       "description": "",
       "language": "fr"
     }

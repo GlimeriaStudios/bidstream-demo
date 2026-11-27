@@ -1,6 +1,97 @@
 {
-  "checkedAt": "2026-11-26T10:34:19.167523+00:00",
+  "checkedAt": "2026-11-27T11:25:59.304917+00:00",
   "notices": [
+    {
+      "id": "boamp-indian-ocean-0e568767f55cd7a2b2c5",
+      "title": "TRAVAUX DE MAÇONNERIE POUR LA CREATION DE MURS POUR LA COMMUNE DU TAMPON",
+      "country": "Réunion",
+      "buyer": "COMMUNE DU TAMPON",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114633",
+      "published": "2026-11-27",
+      "deadline": "2027-01-29T08:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114633",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-d61a5bccda38b2d0bd85",
+      "title": "Prestations d’entretien des espaces verts et des espaces arborés pour les FAZSOI, les résidences gérées par le Ministère des armées et des anciens combattants et des RSMA à La Réunion et à Mayotte",
+      "country": "Réunion, Mayotte",
+      "buyer": "DICOM FAZSOI",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114643",
+      "published": "2026-11-27",
+      "deadline": "2026-12-14T09:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114643",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-96368e3b27eb028dbfad",
+      "title": "Marché d’acquisition d’équipements de laboratoire",
+      "country": "Réunion",
+      "buyer": "DEPARTEMENT DE LA REUNION",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114816",
+      "published": "2026-11-27",
+      "deadline": "2026-12-10T11:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114816",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-52686eed6c8f1b343002",
+      "title": "37RN26 | MAYOTTE (976) – DZAOUDZI - Camp des Badamiers - Construction d'un hangar de stockage - Marché global sectoriel - Phase candidature",
+      "country": "Réunion, Mayotte",
+      "buyer": "DID SDS",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115119",
+      "published": "2026-11-27",
+      "deadline": "2027-02-15T10:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-115119",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-faa271bc26a23064e4c4",
+      "title": "Travaux de réhabilitation du satellite de restauration du collège de SADA",
+      "country": "Réunion, Mayotte",
+      "buyer": "Rectorat de Mayotte",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115123",
+      "published": "2026-11-27",
+      "deadline": "2026-12-18T11:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-115123",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-024151a4e659af76a361",
+      "title": "Etudes D'Opportunites Et De Faisabilite Pour La Constitution D'Une Fonciere De Restructuration De Zones D'Activites Economiques Et De Revitalisation De Centres Urbains",
+      "country": "Réunion",
+      "buyer": "Sedre",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115141",
+      "published": "2026-11-27",
+      "deadline": "2026-12-28T15:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-115141",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-d856036336b0ef76c11c",
+      "title": "Entretien Et Maintenance Des Appareils Professionnels Et Non Professionnels De Cuisine Et De Buanderie",
+      "country": "Réunion",
+      "buyer": "Centre Intercommunal d'Action Sociale (Cias)",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115147",
+      "published": "2026-11-27",
+      "deadline": "2026-12-14T15:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-115147",
+      "language": "fr"
+    },
     {
       "id": "boamp-indian-ocean-bbfd8d1ae61782032a00",
       "title": "Mission d'assistance technique, juridique et administrative pour la révision du zonage d'assainissement (collectif et non collectif) de la CIVIS",
@@ -402,19 +493,6 @@
       "deadline": "2026-12-17T17:00:00+00:00",
       "type": "Tender notice",
       "description": "BOAMP / DILA 26-112392",
-      "language": "fr"
-    },
-    {
-      "id": "boamp-indian-ocean-1250687fc3a0d6977ecd",
-      "title": "Accord-cadre exécuté au moyen de bons de commande pour la maintenance préventive et corrective de portes industrielles, portails et barrières levantes des sites des FAZSOI - Réunion et Mayotte",
-      "country": "Réunion, Mayotte",
-      "buyer": "DID SDS",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-111350",
-      "published": "2026-11-18",
-      "deadline": "2026-11-26T12:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-111350",
       "language": "fr"
     },
     {
@@ -1367,19 +1445,6 @@
       "language": "fr"
     },
     {
-      "id": "boamp-indian-ocean-ebb068ac6b3b907227fd",
-      "title": "Marché formations troubles psychiques",
-      "country": "Réunion",
-      "buyer": "OPCO SANTE",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103921",
-      "published": "2026-10-27",
-      "deadline": "2026-11-27T11:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-103921",
-      "language": "fr"
-    },
-    {
       "id": "boamp-indian-ocean-d436c99f7d71a8aa8c97",
       "title": "Accord-cadre de fourniture de carburants en stations-services par cartes, d'additif et de gazole non routier pour le compte de la SEMRRE",
       "country": "Réunion",
@@ -1432,19 +1497,6 @@
       "language": "fr"
     },
     {
-      "id": "boamp-indian-ocean-85e463079f385cfd284c",
-      "title": "Exécution de services publics routiers de transports scolaires pour les élèves domiciliés sur la commune du Tampon (Plaine des Cafres)",
-      "country": "Réunion",
-      "buyer": "Communauté d’Agglomération du Sud",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103384",
-      "published": "2026-10-25",
-      "deadline": "2026-11-27T08:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-103384",
-      "language": "fr"
-    },
-    {
       "id": "boamp-indian-ocean-fb1bee438a752de00568",
       "title": "Fourniture, installation et maintenance d'équipements de traitement thermique des biodéchets ainsi que la collecte et le traitement du séchât dans lycées publics de la Réunion - 03 lots",
       "country": "Réunion",
@@ -1468,19 +1520,6 @@
       "deadline": "2026-11-30T11:00:00+00:00",
       "type": "Tender notice",
       "description": "BOAMP / DILA 26-102942",
-      "language": "fr"
-    },
-    {
-      "id": "boamp-indian-ocean-674cae66d5477135b948",
-      "title": "Accords-cadres pour la réalisation de comptages et d'analyses de déplacements sur les Routes Départementales (2027-2031)",
-      "country": "Réunion",
-      "buyer": "DEPARTEMENT DE LA REUNION",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-100466",
-      "published": "2026-10-18",
-      "deadline": "2026-11-26T11:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-100466",
       "language": "fr"
     },
     {
@@ -1520,6 +1559,45 @@
       "deadline": "2028-05-19T09:00:00+00:00",
       "type": "Tender notice",
       "description": "BOAMP / DILA 24-31969",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-ee587f92c7cdd1a92060",
+      "title": "Remise en état des ports de plaisance de Mamoudzou, quai croisière et de Dzaoudzi Remplacement des pontons",
+      "country": "Mayotte",
+      "buyer": "Département-Région de Mayotte",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114819",
+      "published": "2026-11-27",
+      "deadline": "2026-12-18T09:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114819",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-d3dc26591cb3d8a22eba",
+      "title": "MAITRE D’ŒUVRE PARTIELLE DES TRAVAUX DE RESTAURATION DU BATIMENT « LA CASERNE » DU MUSEE DE MAYOTTE",
+      "country": "Mayotte",
+      "buyer": "Département-Région de Mayotte",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114835",
+      "published": "2026-11-27",
+      "deadline": "2026-12-02T09:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114835",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-66c14c4e1e1a5a2a5315",
+      "title": "Réfection des voiries communales et des ouvrages d'eaux pluviales de la commune de Bouéni suite au cyclone Chido Lot n°3 : Remise en état des ouvrages d'eaux pluviales obstrués",
+      "country": "Mayotte",
+      "buyer": "Ville de Bouéni (976)",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-115161",
+      "published": "2026-11-27",
+      "deadline": "2026-12-11T12:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-115161",
       "language": "fr"
     },
     {
@@ -1572,6 +1650,45 @@
       "deadline": "2026-12-11T12:00:00+00:00",
       "type": "Tender notice",
       "description": "BOAMP / DILA 26-114672",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-1b17cf6a75ba48356101",
+      "title": "Mise à disposition d'engins et de matériels roulants avec chauffeurs pour le curage des ravines et des réseaux d'eaux pluviales et le nettoyage des dégrilleurs – territoire de la CADEMA",
+      "country": "Mayotte",
+      "buyer": "Communauté d'Agglomération de Dembéni-Mamoudzou (976)",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114780",
+      "published": "2026-11-26",
+      "deadline": "2026-12-18T12:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114780",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-ddab7822852f2678b74f",
+      "title": "Travaux de réhabilitation du bâtiment de la police municipale de Mamoudzou",
+      "country": "Mayotte",
+      "buyer": "Ville de Mamoudzou (976)",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114904",
+      "published": "2026-11-26",
+      "deadline": "2026-12-15T12:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114904",
+      "language": "fr"
+    },
+    {
+      "id": "boamp-indian-ocean-15c2d2f67bb085c61dce",
+      "title": "TRAVAUX DE REPARATION DU MARCHE COUVERT DE MAMOUDZOU",
+      "country": "Mayotte",
+      "buyer": "Département-Région de Mayotte",
+      "source": "BOAMP Indian Ocean",
+      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-114915",
+      "published": "2026-11-26",
+      "deadline": "2026-12-30T12:00:00+00:00",
+      "type": "Tender notice",
+      "description": "BOAMP / DILA 26-114915",
       "language": "fr"
     },
     {
@@ -2069,19 +2186,6 @@
       "language": "fr"
     },
     {
-      "id": "boamp-indian-ocean-2dc1f989f4c4667a1abf",
-      "title": "Affaire N° 32-C2/BIOM/2026 Fourniture, gestion et maintenance des kits oxygène aéronautiques EVASAN",
-      "country": "Mayotte",
-      "buyer": "CENTRE HOSPITALIER DE MAYOTTE",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103804",
-      "published": "2026-10-27",
-      "deadline": "2026-11-27T11:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-103804",
-      "language": "fr"
-    },
-    {
       "id": "boamp-indian-ocean-e17dcb3141d51aa4372c",
       "title": "MAITRE D’ŒUVRE DES TRAVAUX DE SECURISATION DU BATIMENT « COLLEGE » DU MUSEE DE MAYOTTE",
       "country": "Mayotte",
@@ -2092,19 +2196,6 @@
       "deadline": "2026-11-30T12:00:00+00:00",
       "type": "Tender notice",
       "description": "BOAMP / DILA 26-103807",
-      "language": "fr"
-    },
-    {
-      "id": "boamp-indian-ocean-93b96ad9bfdf70668311",
-      "title": "MISSION D’EXPLOITATION ET MAINTENANCE DU SYSTÈME BILLETTIQUE DU RÉSEAU DE TRANSPORT COLLECTIF « CARIBUS »",
-      "country": "Mayotte",
-      "buyer": "Communauté d'Agglomération de Dembéni-Mamoudzou (976)",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103065",
-      "published": "2026-10-25",
-      "deadline": "2026-11-27T09:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-103065",
       "language": "fr"
     },
     {
