@@ -1,6 +1,32 @@
 {
-  "checkedAt": "2026-11-27T11:25:38.219990+00:00",
+  "checkedAt": "2026-11-28T10:54:01.368566+00:00",
   "notices": [
+    {
+      "id": "burundi-armp-7c7b08bd1c9b9c2df219",
+      "title": "APPEL D’OFFRES OUVERT NATIONAL Nᵒ DNCMP/333 /F/2026-2027 POUR FOURNITURE DU MATÉRIEL AGRICOLE POUR LA PRODUCTION DE 980 TONNES DE SEMENCES DE PRÉBASE.",
+      "country": "Burundi",
+      "buyer": "",
+      "source": "Burundi ARMP",
+      "url": "https://armp.gov.bi/archives/12897",
+      "published": "2026-11-27",
+      "deadline": "",
+      "type": "Fournitures",
+      "description": "",
+      "language": "fr"
+    },
+    {
+      "id": "burundi-armp-80710f80bafba6362ec4",
+      "title": "AVIS DE PROLONGATION DES DÉLAIS DE PUBLICATION DE L’APPEL D’OFFRES NATIONAL OUVERT Nᵒ 633/206/AONO/S/UGADS/2026-2027 POUR LE RECRUTEMENT D’UNE ORGANISATION DE LA SOCIÉTÉ CIVILE (OSC) OU UNE ORGANISATION NON GOUVERNEMENTALE (ONG) LOCALE POUR L’ACCOMPAGNEMENT ET L’ENCADREMENT DE LA MISE EN ŒUVRE DES ACTIVITÉS COMMUNAUTAIRES DE LA SUBVENTION RSSH-GC8 DU FONDS MONDIAL (2027-2029)",
+      "country": "Burundi",
+      "buyer": "",
+      "source": "Burundi ARMP",
+      "url": "https://armp.gov.bi/archives/12894",
+      "published": "2026-11-27",
+      "deadline": "",
+      "type": "Services",
+      "description": "",
+      "language": "fr"
+    },
     {
       "id": "burundi-armp-91a9fbeb1781ee35a16f",
       "title": "AVIS D’APPEL D’OFFRES OUVERT NATIONAL No SADANO/RUMONGE/001/T/2026-2027 pour les travaux de construction des Réseaux d’Adduction d’Eau Potable NKUGWAKI-GANZA-DONZI",

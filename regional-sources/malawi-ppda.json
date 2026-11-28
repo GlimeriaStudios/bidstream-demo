@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T11:25:26.716400+00:00",
+  "checkedAt": "2026-11-28T10:53:59.108158+00:00",
   "notices": [
     {
       "id": "malawi-ppda-f83b0cb1d68e3caa94e0",
@@ -12,6 +12,58 @@
       "deadline": "2026-12-04",
       "type": "Tender notice",
       "description": "31/IPDC/NCC/W/26-27/052",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-0712a5954d4429021286",
+      "title": "PROVISION OF CARPORT REPAIR AND MAINTENANCE SERVICES",
+      "country": "Malawi",
+      "buyer": "National Aids Commission",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/PROVISION%20OF%20CARPORT%20REPAIR%20AND%20MAINTENANCE%20SERVICES.pdf",
+      "published": "2026-11-27",
+      "deadline": "2026-12-03",
+      "type": "Tender notice",
+      "description": "NAC/2627/ADMIN-CARPORT/RFQ/NCS/F19",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-3c18b2e7d290174a6aca",
+      "title": "PROCUREMENT OF SPARE PARTS FOR TOYOTA HINO FIRE ENGINE REGISTRATION NUMBER BR 5254",
+      "country": "Malawi",
+      "buyer": "Blantyre City Council",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/ADVERT%20FOR%20RFQS%20FOR%20SPARE%20PARTS%20FOR%20TOYOTA%20HINO%20FIRE%20ENGINE%20BR%205254-%20%20%20NOVEMBER%202026.pdf",
+      "published": "2026-11-27",
+      "deadline": "2026-12-02",
+      "type": "Tender notice",
+      "description": "BCC/GOODS/01/11/18",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-e6a9fccc704bbd45c51f",
+      "title": "Procurement of Materials for OBS and Gynaecology.",
+      "country": "Malawi",
+      "buyer": "Zomba Central Hospital",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/RFQ%20FOR%20PROCUREMENT%20OF%20MATERIALS%20FOR%20OBS%20AND%20GYNAECOLOGY,%202026.pdf",
+      "published": "2026-11-27",
+      "deadline": "2026-12-02",
+      "type": "Tender notice",
+      "description": "ZCH/RFQ/MAT-OBS/11/26",
+      "language": ""
+    },
+    {
+      "id": "malawi-ppda-71bf4208b15b32cd5b39",
+      "title": "RFQ: ADDITONAL CONSTRUCTION MATERIALS FOR FEMALE BARRACK",
+      "country": "Malawi",
+      "buyer": "Malawi Prison Service",
+      "source": "Malawi PPDA",
+      "url": "https://ppda.mw/storage/documents/opentenders/FEMALE%20BARRACK%20ADDITIONAL%20MATERIALS%20(1)_124534.pdf",
+      "published": "2026-11-27",
+      "deadline": "2026-12-01",
+      "type": "Tender notice",
+      "description": "CHIL2/PR/Y2/02",
       "language": ""
     },
     {

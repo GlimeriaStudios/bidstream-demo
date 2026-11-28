@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T11:25:59.304917+00:00",
+  "checkedAt": "2026-11-28T10:54:27.990257+00:00",
   "notices": [
     {
       "id": "boamp-indian-ocean-0e568767f55cd7a2b2c5",
@@ -1445,19 +1445,6 @@
       "language": "fr"
     },
     {
-      "id": "boamp-indian-ocean-d436c99f7d71a8aa8c97",
-      "title": "Accord-cadre de fourniture de carburants en stations-services par cartes, d'additif et de gazole non routier pour le compte de la SEMRRE",
-      "country": "Réunion",
-      "buyer": "SEM Réunion Recyclage Environnement",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103956",
-      "published": "2026-10-27",
-      "deadline": "2026-11-27T13:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-103956",
-      "language": "fr"
-    },
-    {
       "id": "boamp-indian-ocean-73f21ae26e26a75dde3a",
       "title": "Espace culturel - Micro-Folie - Réhabilitation et surélévation de l'ancienne mairie en bureaux et salle d'exposition (Relance)",
       "country": "Réunion",
@@ -1468,32 +1455,6 @@
       "deadline": "2026-11-30T12:00:00+00:00",
       "type": "Tender notice",
       "description": "BOAMP / DILA 26-104540",
-      "language": "fr"
-    },
-    {
-      "id": "boamp-indian-ocean-4544f3216fb5a88d374b",
-      "title": "Travaux d'amélioration foncière pour la mise en oeuvre des projets retenus par ILEVA au titre de sa compensation agricole parcelle CO0005p d'une superficie de 0,72 ha commune de Saint-Joseph (Lot 15)",
-      "country": "Réunion",
-      "buyer": "SMTD Sud et Ouest de la Réunion",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103905",
-      "published": "2026-10-26",
-      "deadline": "2026-11-27T14:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-103905",
-      "language": "fr"
-    },
-    {
-      "id": "boamp-indian-ocean-08a217728e8d3be0a5f1",
-      "title": "Autorisation d’Occupation Temporaire (AOT) pour l’exploitation du golf du Colorado sur la commune de Saint-Denis",
-      "country": "Réunion",
-      "buyer": "COMMUNAUTE INTERCOMMUNALE NORD REUNION",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103969",
-      "published": "2026-10-26",
-      "deadline": "2026-11-27T12:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-103969",
       "language": "fr"
     },
     {
@@ -1926,32 +1887,6 @@
       "language": "fr"
     },
     {
-      "id": "boamp-indian-ocean-c6cae777eec4b6e95b7f",
-      "title": "Maîtrise d'œuvre pour la réalisation d'un plateau sportif à Kahani",
-      "country": "Mayotte",
-      "buyer": "Ville de Ouangani (976)",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110316",
-      "published": "2026-11-13",
-      "deadline": "2026-11-27T12:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-110316",
-      "language": "fr"
-    },
-    {
-      "id": "boamp-indian-ocean-0c405eee7d8d5e5e0911",
-      "title": "Maitrise d'œuvre partielle de la réfection des voiries communales et des ouvrages d’eaux pluviales",
-      "country": "Mayotte",
-      "buyer": "Ville de Bouéni (976)",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-110704",
-      "published": "2026-11-13",
-      "deadline": "2026-11-27T12:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-110704",
-      "language": "fr"
-    },
-    {
       "id": "boamp-indian-ocean-ce7fe50c608909cfd90d",
       "title": "Mission de maîtrise d'œuvre pour la démolition du préau existant et la construction d'un nouveau préau et de deux salles de classe à l'école élémentaire Ismaël Dahalani de Tsimkoura (commune de Chi...",
       "country": "Mayotte",
@@ -2095,19 +2030,6 @@
       "language": "fr"
     },
     {
-      "id": "boamp-indian-ocean-494a0b2e2cd5742eb970",
-      "title": "Travaux de remplacement de portes battantes par des blocs-portes coulissantes automatiques étanches du Centre Hospitalier de Mayotte.",
-      "country": "Mayotte",
-      "buyer": "CENTRE HOSPITALIER DE MAYOTTE",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105680",
-      "published": "2026-10-30",
-      "deadline": "2026-11-27T14:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-105680",
-      "language": "fr"
-    },
-    {
       "id": "boamp-indian-ocean-351619bbe104a6eff89a",
       "title": "MARCHE D’ACQUISITION ET DE CONCEPTION D’UN BUS NUMERIQUE ITINERANT",
       "country": "Mayotte",
@@ -2157,19 +2079,6 @@
       "deadline": "2026-12-04T17:00:00+00:00",
       "type": "Tender notice",
       "description": "BOAMP / DILA 26-104486",
-      "language": "fr"
-    },
-    {
-      "id": "boamp-indian-ocean-1ef77243efb2aa3ba41b",
-      "title": "Acquisition d'un véhicule itinérant aménagé",
-      "country": "Mayotte",
-      "buyer": "Edm électricité de Mayotte",
-      "source": "BOAMP Indian Ocean",
-      "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104998",
-      "published": "2026-10-28",
-      "deadline": "2026-11-27T16:00:00+00:00",
-      "type": "Tender notice",
-      "description": "BOAMP / DILA 26-104998",
       "language": "fr"
     },
     {
